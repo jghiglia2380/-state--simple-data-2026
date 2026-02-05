@@ -8,7 +8,7 @@ STANDARDS_CODE: Iowa Code 256.11
 STANDARDS_COUNT: 5
 STANDARDS_TERM: Content Area
 STANDARDS_TERM_PLURAL: Content Areas
-COMPLIANCE_REQUIREMENT: Iowa Code 256.11 half-unit personal finance graduation requirement (Class of 2023 and beyond)
+COMPLIANCE_REQUIREMENT: Iowa Code 256.11 half-unit personal finance graduation requirement (SF 2415/SF 139 Class of 2021, effective enforcement Class of 2023+ per HF 420 amendment)
 
 ## SEO Content
 PAGE_TITLE: Iowa Personal Finance Curriculum - PFL Academy | Iowa Core Aligned
@@ -24,7 +24,7 @@ QUICK_FACTS_STANDARDS: Iowa Core 21st Century Skills: Financial Literacy
 QUICK_FACTS_COVERAGE: 5 Content Areas (aligned K-12)
 QUICK_FACTS_GRADES: 9-12
 QUICK_FACTS_IMPLEMENTATION: 30-, 45-, or 90-hour options with flexible delivery
-QUICK_FACTS_NOTE: Fulfills Iowa half-unit personal finance graduation requirement under Iowa Code 256.11 (Class of 2023+)
+QUICK_FACTS_NOTE: Fulfills Iowa half-unit personal finance graduation requirement under Iowa Code 256.11 (SF 2415/SF 139 Class of 2021, effective enforcement Class of 2023+ per HF 420)
 
 ## Curriculum Alignment - Line Items
 CONTENT_AREA_1: Content Area 1: Financial Responsibility and Decision Making (9 chapters) - Goal setting, decision frameworks, consumer protection, and financial responsibility

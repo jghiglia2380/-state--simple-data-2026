@@ -4,11 +4,11 @@
 STATE_NAME: Delaware
 STATE_NAME_LOWER: delaware
 STANDARDS_NAME: Delaware Financial Literacy Standards
-STANDARDS_CODE: House Bill 203 Financial Literacy Standards (K-12, January 2018)
+STANDARDS_CODE: House Bill 203 (signed October 9, 2025)
 STANDARDS_COUNT: 4
 STANDARDS_TERM: Standard
 STANDARDS_TERM_PLURAL: Standards
-COMPLIANCE_REQUIREMENT: House Bill 203 mandatory financial literacy graduation requirement
+COMPLIANCE_REQUIREMENT: House Bill 203 (signed October 9, 2025 by Governor Matt Meyer, sponsored by Rep. Jeff Hilovsky) - Half-credit financial literacy course graduation requirement effective for students entering 9th grade in 2025-2026 school year (Class of 2029). Delaware becomes 30th state to require standalone personal finance course.
 
 ## SEO Content
 PAGE_TITLE: Delaware Personal Finance Curriculum - PFL Academy | HB 203 Standards Aligned
@@ -20,11 +20,11 @@ HERO_TITLE: Delaware Personal Finance Curriculum
 HERO_DESCRIPTION: Complete 45-chapter program aligned to Delaware's 4 Financial Literacy Standards meeting House Bill 203 graduation requirement.
 
 ## Quick Facts Box
-QUICK_FACTS_STANDARDS: Delaware Financial Literacy Standards (K-12, January 2018)
+QUICK_FACTS_STANDARDS: Delaware Financial Literacy Standards (HB 203, October 2025)
 QUICK_FACTS_COVERAGE: 4 Standards (Financial Planning & Decision-Making, Money Management, Saving & Investing, Risk Protection)
 QUICK_FACTS_GRADES: 9-12
 QUICK_FACTS_IMPLEMENTATION: 30-, 45-, or 90-hour options
-QUICK_FACTS_NOTE: Fulfills Delaware House Bill 203 mandatory financial literacy graduation requirement
+QUICK_FACTS_NOTE: Fulfills Delaware House Bill 203 half-credit financial literacy graduation requirement (effective Class of 2029). Delaware is the 30th state to require standalone personal finance course.
 
 ## Curriculum Alignment - Line Items
 STANDARD_1: Standard 1: Financial Planning and Decision-Making (8 chapters) - Setting financial goals, career planning, education financing, and decision-making strategies

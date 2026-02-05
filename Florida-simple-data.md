@@ -4,23 +4,23 @@
 STATE_NAME: Florida
 STATE_NAME_LOWER: florida
 STANDARDS_NAME: Florida Academic Standards for Personal Financial Literacy
-STANDARDS_CODE: Course 8500120 - Personal Financial Literacy (CPALMS)
+STANDARDS_CODE: Courses 2102371, 2102373, 2102300, 2102305, 8815120 (CPALMS) - Course 8500120 terminated June 30, 2024
 STANDARDS_COUNT: 13
 STANDARDS_TERM: Expectation
 STANDARDS_TERM_PLURAL: Expectations
-COMPLIANCE_REQUIREMENT: Florida Academic Standards - 0.5 credit personal financial literacy graduation requirement
+COMPLIANCE_REQUIREMENT: Florida 0.5 credit personal financial literacy graduation requirement. Approved courses: 2102371 (Personal Finance and Money Management), 2102373 (Personal Finance and Money Management Honors), 2102300 (Economics and Personal Finance), 2102305 (Economics and Personal Finance Honors), 8815120 (Personal Finance CTE). Note: Course 8500120 terminated June 30, 2024 per Florida DOE memo DPS-2024-09.
 
 ## SEO Content
 PAGE_TITLE: Florida Personal Finance Curriculum - PFL Academy | 13 Expectations Aligned
-META_DESCRIPTION: Florida Personal Finance Curriculum aligned to 13 Student Performance Expectations from CPALMS Course 8500120. Complete 45-chapter program meeting Florida 0.5 credit graduation requirement.
-KEYWORDS: Florida personal finance, course 8500120, CPALMS, 13 expectations, financial literacy, florida teachers, graduation requirement
+META_DESCRIPTION: Florida Personal Finance Curriculum aligned to 13 Student Performance Expectations from CPALMS approved courses (2102371, 2102373, 2102300, 2102305, 8815120). Complete 45-chapter program meeting Florida 0.5 credit graduation requirement.
+KEYWORDS: Florida personal finance, courses 2102371 2102373 2102300 2102305 8815120, CPALMS, 13 expectations, financial literacy, florida teachers, graduation requirement
 
 ## Hero Section
 HERO_TITLE: Florida Personal Finance Curriculum
-HERO_DESCRIPTION: Complete 45-chapter program aligned to Florida's 13 Student Performance Expectations (CPALMS Course 8500120), meeting the 0.5 credit graduation requirement.
+HERO_DESCRIPTION: Complete 45-chapter program aligned to Florida's 13 Student Performance Expectations from CPALMS approved courses, meeting the 0.5 credit graduation requirement.
 
 ## Quick Facts Box
-QUICK_FACTS_STANDARDS: Florida Academic Standards for Personal Financial Literacy (CPALMS Course 8500120)
+QUICK_FACTS_STANDARDS: Florida Academic Standards for Personal Financial Literacy (CPALMS Courses 2102371, 2102373, 2102300, 2102305, 8815120)
 QUICK_FACTS_COVERAGE: 13 Student Performance Expectations
 QUICK_FACTS_GRADES: 9-12
 QUICK_FACTS_IMPLEMENTATION: 0.5 credit course (60 hours)

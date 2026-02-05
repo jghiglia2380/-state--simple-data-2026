@@ -4,11 +4,11 @@
 STATE_NAME: Indiana
 STATE_NAME_LOWER: indiana
 STANDARDS_NAME: Indiana Academic Standards for Personal Financial Responsibility
-STANDARDS_CODE: IC 20-30-5-14
+STANDARDS_CODE: IC 20-30-5-19
 STANDARDS_COUNT: 6
 STANDARDS_TERM: Standard
 STANDARDS_TERM_PLURAL: Standards
-COMPLIANCE_REQUIREMENT: IC 20-30-5-14 Personal Financial Responsibility course requirement (Class of 2028 and beyond)
+COMPLIANCE_REQUIREMENT: IC 20-30-5-19 Personal Financial Responsibility course requirement (Class of 2028 and beyond)
 
 ## SEO Content
 PAGE_TITLE: Indiana Personal Finance Curriculum - PFL Academy | Personal Financial Responsibility Aligned
@@ -24,7 +24,7 @@ QUICK_FACTS_STANDARDS: Indiana Academic Standards for Personal Financial Respons
 QUICK_FACTS_COVERAGE: 6 Personal Finance Standards
 QUICK_FACTS_GRADES: 9-12
 QUICK_FACTS_IMPLEMENTATION: 30-, 45-, or 90-hour options
-QUICK_FACTS_NOTE: Fulfills Indiana Personal Financial Responsibility course requirement under IC 20-30-5-14 (effective Class of 2028)
+QUICK_FACTS_NOTE: Fulfills Indiana Personal Financial Responsibility course requirement under IC 20-30-5-19 (effective Class of 2028)
 
 ## Curriculum Alignment - Line Items
 STANDARD_1: Standard 1: Decision Making and Goal Setting (5 chapters) - Applying decision-making processes, setting financial goals, and analyzing external influences
