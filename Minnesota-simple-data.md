@@ -30,11 +30,11 @@ QUICK_FACTS_NOTE: Fulfills Minnesota HF2497 graduation requirement (effective Cl
 BENCHMARK_1: Benchmark 1: Money Management (7 chapters) - Budgeting, financial planning, goal setting, and income management
 BENCHMARK_2: Benchmark 2: Financial Institutions and Services (5 chapters) - Banking services, financial products, and institutional evaluation
 BENCHMARK_3: Benchmark 3: Financial Decision Making (8 chapters) - Decision frameworks, consumer protection, fraud prevention, and smart purchasing
-BENCHMARK_4: Benchmark 4: Career and Income (10 chapters) - Career planning, education financing, income sources, and comprehensive workforce readiness
+BENCHMARK_4: Benchmark 4: Career and Income (9 chapters) - Career planning, education financing, income sources, and comprehensive workforce readiness
 BENCHMARK_5: Benchmark 5: Saving and Investing (7 chapters) - Saving strategies, investment principles, retirement planning, and wealth building
 BENCHMARK_6: Benchmark 6: Credit and Borrowing (8 chapters) - Credit fundamentals, debt management, housing finance, and major purchases
 BENCHMARK_7: Benchmark 7 (Recurring): Critical Thinking and Economics Integration (7 chapters) - Economic systems, supply/demand, fiscal/monetary policy, market structures
-BENCHMARK_8: Benchmark 8 (Recurring): Ethics and Social Responsibility (3 chapters) - Taxation, ethical financial practices, and philanthropic giving
+BENCHMARK_8: Benchmark 8 (Recurring): Ethics and Social Responsibility (1 chapter) - Ethical financial practices and philanthropic giving
 
 ## First Three Benchmarks (Detailed)
 
@@ -67,7 +67,7 @@ BENCHMARK_3_FEATURES: Consumer Protection Resources|Fraud Prevention Tools|Decis
 BENCHMARK_4_NUMBER: 4
 BENCHMARK_4_TITLE: Career and Income
 BENCHMARK_4_DESCRIPTION: Career planning, education financing, income sources, and comprehensive workforce readiness
-BENCHMARK_4_CHAPTERS: 4.1 Jobs vs. Careers|4.2 Paying for Post-Secondary Education|4.3 Income and Taxes|4.4 Career Exploration and Goal Setting|4.5 Resume Building and Personal Branding|4.6 Job Application Process|4.7 Interview Skills and Workplace Readiness|4.9 Entrepreneurship and Side Hustles|4.10 Introduction to Investment Types
+BENCHMARK_4_CHAPTERS: 4.1 Jobs vs. Careers|4.2 Paying for Post-Secondary Education|4.3 Income and Taxes|4.4 Career Exploration and Goal Setting|4.5 Resume Building and Personal Branding|4.6 Job Application Process|4.7 Interview Skills and Workplace Readiness|4.8 Entrepreneurship and Side Hustles|4.9 Introduction to Investment Types
 BENCHMARK_4_ADDITIONAL_COUNT: 0
 
 ### Benchmark 5
@@ -96,7 +96,7 @@ BENCHMARK_7_NOTE: Uses economics series L-48 through L-54 per Minnesota integrat
 BENCHMARK_8_NUMBER: 8
 BENCHMARK_8_TITLE: Ethics and Social Responsibility (Recurring Outcome)
 BENCHMARK_8_DESCRIPTION: Taxation systems, ethical financial practices, philanthropic giving, and community financial responsibility
-BENCHMARK_8_CHAPTERS: 8.1 Understanding Federal and State Tax Systems|8.3 Charitable Giving and Financial Planning (combines L-39 and L-40)
+BENCHMARK_8_CHAPTERS: 8.1 Charitable Giving and Financial Planning (combines L-39 and L-40)
 BENCHMARK_8_ADDITIONAL_COUNT: 0
 BENCHMARK_8_NOTE: Minnesota emphasizes philanthropy (combined L-39+L-40) but does NOT combine gambling awareness
 
@@ -109,7 +109,7 @@ GATED_FEATURES: Career Planning Tools|Investment Portfolio Builder|Retirement Pl
 STATE_RESOURCES: Minnesota Department of Education|https://education.mn.gov/|HF2497 Information|/compliance/minnesota|MN Academic Standards|/standards/minnesota|Minnesota 529|https://www.mnsaves.org/
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-6→1.3|L-7→1.4|L-8→1.5|L-9→1.6|L-10→1.7|L-11→2.1|L-12→2.2|L-13→2.3|L-14→2.4|L-15→2.5|L-27→3.1|L-28→3.2|L-29→3.3|L-30→3.4|L-31→3.5|L-32→3.6|L-46→3.7|L-33→3.8|L-1→4.1|L-2→4.2|L-3→4.3|L-41→4.4|L-42→4.5|L-43→4.6|L-44→4.7|L-45→4.9|L-47→4.10|L-16→5.1|L-17→5.2|L-18→5.3|L-19→5.4|L-20→5.5|L-34→5.6|L-35→5.7|L-21→6.1|L-22→6.2|L-23→6.3|L-24→6.4|L-25→6.5|L-26→6.6|L-38→6.7|L-36+L-37→6.8|L-48→7.1|L-49→7.2|L-50→7.3|L-51→7.4|L-52→7.5|L-53→7.6|L-54→7.7|L-39+L-40→8.3
+L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-6→1.3|L-7→1.4|L-8→1.5|L-9→1.6|L-10→1.7|L-11→2.1|L-12→2.2|L-13→2.3|L-14→2.4|L-15→2.5|L-27→3.1|L-28→3.2|L-29→3.3|L-30→3.4|L-31→3.5|L-32→3.6|L-46→3.7|L-33→3.8|L-1→4.1|L-2→4.2|L-3→4.3|L-41→4.4|L-42→4.5|L-43→4.6|L-44→4.7|L-45→4.8|L-47→4.9|L-16→5.1|L-17→5.2|L-18→5.3|L-19→5.4|L-20→5.5|L-34→5.6|L-35→5.7|L-21→6.1|L-22→6.2|L-23→6.3|L-24→6.4|L-25→6.5|L-26→6.6|L-38→6.7|L-36+L-37→6.8|L-48→7.1|L-49→7.2|L-50→7.3|L-51→7.4|L-52→7.5|L-53→7.6|L-54→7.7|L-39+L-40→8.1
 
 ## Omitted L-Chapters
 OMITTED_CHAPTERS: None - All chapters L-1 through L-54 are used (Minnesota is only state using full economics series L-48-L-54)

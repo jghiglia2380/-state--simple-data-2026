@@ -72,7 +72,7 @@ AREA_4_ADDITIONAL_COUNT: 0
 AREA_5_NUMBER: 5
 AREA_5_TITLE: Risk Management and Insurance
 AREA_5_DESCRIPTION: Risk assessment, insurance products, and gambling awareness
-AREA_5_CHAPTERS: 5.1 Understanding and Managing Risk|5.2 Insurance as a Risk Management Tool|5.3 Managing Insurance Costs|5.4 Introduction to Investment Types|5.6 Understanding the Risks of Gambling (combines L-36 and L-37)
+AREA_5_CHAPTERS: 5.1 Understanding and Managing Risk|5.2 Insurance as a Risk Management Tool|5.3 Managing Insurance Costs|5.4 Introduction to Investment Types|5.5 Understanding the Risks of Gambling (combines L-36 and L-37)
 AREA_5_ADDITIONAL_COUNT: 0
 
 ### Area 6
@@ -91,14 +91,14 @@ GATED_FEATURES: Credit Score Simulator|Investment Portfolio Analyzer|Retirement 
 STATE_RESOURCES: Pennsylvania Department of Education|https://www.education.pa.gov/|Act 35 Compliance|/compliance/pennsylvania|PA Academic Standards|/standards/pennsylvania|Teacher Resources|/resources/pennsylvania
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-3→1.3|L-1→2.1|L-2→2.2|L-25→2.3|L-41→2.4|L-42→2.5|L-43→2.6|L-44→2.7|L-45→2.8|L-21→3.1|L-22→3.2|L-23→3.3|L-24→3.4|L-26→3.5|L-38→3.6|L-30→3.7|L-31→3.8|L-32→3.9|L-46→3.10|L-27→3.11|L-39+L-40→3.12|L-11→4.1|L-12→4.2|L-13→4.3|L-14→4.4|L-15→4.5|L-16→4.6|L-17→4.7|L-18→4.8|L-19→4.9|L-20→4.10|L-33→5.1|L-34→5.2|L-35→5.3|L-47→5.4|L-36+L-37→5.6|L-6→6.1|L-7→6.2|L-8→6.3|L-9→6.4|L-10→6.5|L-28→6.6|L-29→6.7
+L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-3→1.3|L-1→2.1|L-2→2.2|L-25→2.3|L-41→2.4|L-42→2.5|L-43→2.6|L-44→2.7|L-45→2.8|L-21→3.1|L-22→3.2|L-23→3.3|L-24→3.4|L-26→3.5|L-38→3.6|L-30→3.7|L-31→3.8|L-32→3.9|L-46→3.10|L-27→3.11|L-39+L-40→3.12|L-11→4.1|L-12→4.2|L-13→4.3|L-14→4.4|L-15→4.5|L-16→4.6|L-17→4.7|L-18→4.8|L-19→4.9|L-20→4.10|L-33→5.1|L-34→5.2|L-35→5.3|L-47→5.4|L-36+L-37→5.5|L-6→6.1|L-7→6.2|L-8→6.3|L-9→6.4|L-10→6.5|L-28→6.6|L-29→6.7
 
 ## Omitted L-Chapters
 OMITTED_CHAPTERS: None - All 45 L-chapters (L-1 through L-47, excluding L-48-L-54 economics series) are included
 
 ## Implementation Summary for Dev Team
 NEW_CHAPTERS_REQUIRED: 0 - using L-1 through L-47 from master inventory
-CHAPTERS_CONSOLIDATED: 2 combinations (L-36+L-37 into 5.6, L-39+L-40 into 3.12)
+CHAPTERS_CONSOLIDATED: 2 combinations (L-36+L-37 into 5.5, L-39+L-40 into 3.12)
 TOTAL_CHAPTERS: 45 distributed across 6 Pennsylvania areas
 SPECIAL_REQUIREMENTS: Pennsylvania progressive income tax (3.07%), Pennsylvania Unfair Trade Practices and Consumer Protection Law, landlord-tenant laws (Act 68), Act 35 standalone course requirement (cannot be integrated)
 CURRICULUM_STATUS: Ready for implementation - corrected to 6 areas per Pennsylvania Academic Standards for Personal Finance with Area 6 (Civic Financial Responsibility) added

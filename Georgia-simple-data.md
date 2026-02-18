@@ -42,7 +42,7 @@ CONTENT_AREA_1_DESCRIPTION: Economic systems, scarcity, opportunity cost, incent
 CONTENT_AREA_1_CHAPTERS: 1.1 Risk and Return in Investing |1.2 Investment Portfolio Diversification |1.3 Financial Goal Setting
 CONTENT_AREA_1_ADDITIONAL_COUNT: 0
 CONTENT_AREA_1_FEATURES: Georgia Economic Decision Framework|Opportunity Cost Calculator|Economic Systems Comparison|Financial Goal Planner
-CONTENT_AREA_1_NOTE: Consolidated from 4 to 3 chapters - L-47 (formerly mapped to 1.1) is now investing content; L-49 now combines scarcity, opportunity cost, and incentives
+CONTENT_AREA_1_NOTE: Consolidated from 4 to 3 chapters - L-47 (formerly mapped to 1.1) moved to Content Area 8 (investing content); L-49 now combines scarcity, opportunity cost, and incentives
 
 ### Content Area 2
 CONTENT_AREA_2_NUMBER: 2
@@ -96,7 +96,7 @@ CONTENT_AREA_7_ADDITIONAL_COUNT: 0
 CONTENT_AREA_8_NUMBER: 8
 CONTENT_AREA_8_TITLE: Investment Markets & Capital Economics
 CONTENT_AREA_8_DESCRIPTION: Investment fundamentals, compound interest, strategies, capital market analysis, and macroeconomic factors
-CONTENT_AREA_8_CHAPTERS: 8.1 Getting Started Saving and Investing |8.2 Understanding the Power of Compound Interest and the Rule of 72 |8.3 L-16+L-17+L-18 |8.4 Inflation, Unemployment, and Personal Finance
+CONTENT_AREA_8_CHAPTERS: 8.1 Getting Started Saving and Investing |8.2 Understanding the Power of Compound Interest and the Rule of 72 |8.3 L-16+L-17+L-18 |8.4 Inflation, Unemployment, and Personal Finance |8.5 Introduction to Investment Types
 CONTENT_AREA_8_ADDITIONAL_COUNT: 0
 CONTENT_AREA_8_NOTE: Chapter 8.4 updated with L-54 economics title from Master list
 
@@ -145,10 +145,10 @@ GATED_FEATURES: Economics Market Simulator|Credit Score Economics Tool|Investmen
 STATE_RESOURCES: Georgia Department of Education|https://www.gadoe.org/|SB 220 Compliance Guide|/compliance/georgia|Economics Standards Document|/economics/georgia|Implementation Guide|/implementation/georgia|Teacher Training Options|/training/georgia
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-48→1.1|L-49→1.2|L-4→1.3|L-50→2.1|L-1→2.2|L-3→2.3|L-2→2.4|L-6→3.1|L-7→3.2|L-8→3.3|L-53→3.4|L-5→4.1|L-9→4.2|L-10→4.3|L-11→5.1|L-52→5.2|L-51→5.3|L-21→6.1|L-23→6.2|L-22+L-24→6.3|L-26→6.4|L-12→7.1|L-38→7.2|L-13→7.3|L-14→8.1|L-15→8.2|L-16+L-17+L-18→8.3|L-54→8.4|L-19→9.1|L-20→9.2|L-33+L-34+L-35→10.1|L-36→10.2|L-37→10.3|L-27+L-28→11.1|L-29→11.2|L-25→11.3|L-30→12.1|L-31→12.2|L-32→12.3|L-46→12.4|L-45→13.1|L-41+L-42+L-43+L-44→13.2|L-39+L-40→13.3|L-55→13.4
+L_CHAPTER_MAPPINGS: L-48→1.1|L-49→1.2|L-4→1.3|L-50→2.1|L-1→2.2|L-3→2.3|L-2→2.4|L-6→3.1|L-7→3.2|L-8→3.3|L-53→3.4|L-5→4.1|L-9→4.2|L-10→4.3|L-11→5.1|L-52→5.2|L-51→5.3|L-21→6.1|L-23→6.2|L-22+L-24→6.3|L-26→6.4|L-12→7.1|L-38→7.2|L-13→7.3|L-14→8.1|L-15→8.2|L-16+L-17+L-18→8.3|L-54→8.4|L-47→8.5|L-19→9.1|L-20→9.2|L-33+L-34+L-35→10.1|L-36→10.2|L-37→10.3|L-27+L-28→11.1|L-29→11.2|L-25→11.3|L-30→12.1|L-31→12.2|L-32→12.3|L-46→12.4|L-45→13.1|L-41+L-42+L-43+L-44→13.2|L-39+L-40→13.3|L-55→13.4
 
 ## L-Chapter Mapping Notes
-CHANGED_MAPPINGS: L-47 REMOVED (now investing content, not economics)|L-48→1.1 (was 1.2)|L-49→1.2 (was 1.3)|L-4→1.3 (was 1.4)|L-51→5.3 (was 3.4)|L-53→3.4 (was 5.3)|Content Area 1 reduced from 4 to 3 chapters|All economics chapters (L-48-55) updated to match Master list titles
+CHANGED_MAPPINGS: L-47 MOVED to 8.5 (investing content in Content Area 8)|L-48→1.1 (was 1.2)|L-49→1.2 (was 1.3)|L-4→1.3 (was 1.4)|L-51→5.3 (was 3.4)|L-53→3.4 (was 5.3)|Content Area 1 reduced from 4 to 3 chapters; L-47 redistributed to Content Area 8|All economics chapters (L-48-55) updated to match Master list titles
 TOTAL_CHAPTERS: 45 (unchanged - consolidation in Area 1 offset by redistribution)
 
 ## Implementation Summary for Dev Team
@@ -157,5 +157,5 @@ CHAPTERS_TO_CONSOLIDATE: Multiple consolidations to accommodate economics conten
 TOTAL_CHAPTERS: 45 distributed across 13 content areas
 ECONOMICS_INTEGRATION: Uses L-48 through L-55 (8 pure economics chapters) integrated throughout curriculum to meet SB 220 50% requirement
 SPECIAL_REQUIREMENTS: 50% economics content integration, Georgia Milestones assessment preparation, SB 220 compliance
-CURRICULUM_STATUS: Ready for implementation - all 45 chapters mapped with corrected L-chapter assignments using pure economics series L-48-55 (L-47 removed as it is now investing content)
+CURRICULUM_STATUS: Ready for implementation - all 45 chapters mapped with corrected L-chapter assignments using pure economics series L-48-55 (L-47 moved to Content Area 8 as investing content)
 LAST_UPDATED: November 13, 2025 - L-chapter mappings updated to reflect economics (L-48-55) vs investing (L-64-69) series split

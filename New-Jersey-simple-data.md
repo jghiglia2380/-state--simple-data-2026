@@ -103,7 +103,7 @@ DISCIPLINARY_CONCEPT_8_ADDITIONAL_COUNT: 0
 DISCIPLINARY_CONCEPT_9_NUMBER: 9
 DISCIPLINARY_CONCEPT_9_TITLE: Career Readiness and Professional Development
 DISCIPLINARY_CONCEPT_9_DESCRIPTION: Workforce readiness, resume building, job application skills, interview techniques, and entrepreneurship
-DISCIPLINARY_CONCEPT_9_CHAPTERS: 9.1 Resume Building and Personal Branding|9.2 Job Application Process|9.3 Interview Skills and Workplace Readiness|9.5 Entrepreneurship and Side Hustles
+DISCIPLINARY_CONCEPT_9_CHAPTERS: 9.1 Resume Building and Personal Branding|9.2 Job Application Process|9.3 Interview Skills and Workplace Readiness|9.4 Entrepreneurship and Side Hustles
 DISCIPLINARY_CONCEPT_9_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Disciplinary Concepts
@@ -115,7 +115,7 @@ GATED_FEATURES: Investment Portfolio Builder|Retirement Planner|Credit Score Sim
 STATE_RESOURCES: New Jersey Department of Education|https://www.nj.gov/education/|NJSLS 9.1 Standards|/standards/newjersey|NJBEST 529 Plan|https://www.njbest.com/|NJ Consumer Affairs|https://www.njconsumeraffairs.gov/
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-1→1.1|L-2→1.2|L-3→1.3|L-25→1.4|L-41→1.5|L-4→2.1|L-5→2.2|L-6→2.3|L-7→2.4|L-8→2.5|L-9→2.6|L-10→2.7|L-11→2.8|L-21→3.1|L-22→3.2|L-23→3.3|L-24→3.4|L-26→3.5|L-38→3.6|L-12→4.1|L-13→4.2|L-14→4.3|L-15→4.4|L-16→4.5|L-17→4.6|L-47→4.7|L-27→5.1|L-28→5.2|L-29→5.3|L-46→5.4|L-18→6.1|L-19→6.2|L-39+L-40→6.3|L-33→7.1|L-34→7.2|L-35→7.3|L-36+L-37→7.4|L-30→8.1|L-31→8.2|L-32→8.3|L-20→8.4|L-42→9.1|L-43→9.2|L-44→9.3|L-45→9.5
+L_CHAPTER_MAPPINGS: L-1→1.1|L-2→1.2|L-3→1.3|L-25→1.4|L-41→1.5|L-4→2.1|L-5→2.2|L-6→2.3|L-7→2.4|L-8→2.5|L-9→2.6|L-10→2.7|L-11→2.8|L-21→3.1|L-22→3.2|L-23→3.3|L-24→3.4|L-26→3.5|L-38→3.6|L-12→4.1|L-13→4.2|L-14→4.3|L-15→4.4|L-16→4.5|L-17→4.6|L-47→4.7|L-27→5.1|L-28→5.2|L-29→5.3|L-46→5.4|L-18→6.1|L-19→6.2|L-39+L-40→6.3|L-33→7.1|L-34→7.2|L-35→7.3|L-36+L-37→7.4|L-30→8.1|L-31→8.2|L-32→8.3|L-20→8.4|L-42→9.1|L-43→9.2|L-44→9.3|L-45→9.4
 
 ## Omitted L-Chapters
 OMITTED_CHAPTERS: None - All 45 L-chapters (L-1 through L-47, excluding L-48-L-54 economics series) are included
