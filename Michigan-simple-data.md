@@ -42,10 +42,10 @@ STANDARD_1_NUMBER: 1
 STANDARD_1_TITLE: Earning Income
 STANDARD_1_DESCRIPTION: Career exploration, education financing, income sources, and understanding taxation on earnings
 STANDARD_1_SUB_A_TITLE: Career & Income Fundamentals
-STANDARD_1_SUB_A_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Income and Taxes|1.4 Career Planning & Development|1.5 Resume Building and Personal Branding|1.6 Entrepreneurship and Side Hustles
+STANDARD_1_SUB_A_CHAPTERS: 1.1 Jobs vs. Careers |1.2 Paying for Post-Secondary Education |1.3 Income and Taxes |1.4 Career Exploration and Goal Setting |1.5 Entrepreneurship and Side Hustles |1.6 Automobile Finance -- Buying vs. Leasing
 STANDARD_1_SUB_B_TITLE: Tax Fundamentals
-STANDARD_1_SUB_B_CHAPTERS: 1.7 Understanding Federal and State Taxes|1.8 Understanding Tax Brackets and Tax Rates|1.9 Understanding Tax Filing Requirements
-STANDARD_1_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Income and Taxes|1.4 Career Planning & Development|1.5 Resume Building and Personal Branding|1.6 Entrepreneurship and Side Hustles|1.7 Understanding Federal and State Taxes|1.8 Understanding Tax Brackets and Tax Rates|1.9 Understanding Tax Filing Requirements
+STANDARD_1_SUB_B_CHAPTERS: 1.7 Understanding Federal and State Taxes |1.8 Understanding Tax Brackets and Tax Rates |1.9 Understanding Tax Filing Requirements
+STANDARD_1_CHAPTERS: 1.1 Jobs vs. Careers |1.2 Paying for Post-Secondary Education |1.3 Income and Taxes |1.4 Career Exploration and Goal Setting |1.5 Entrepreneurship and Side Hustles |1.6 Automobile Finance -- Buying vs. Leasing |1.7 Understanding Federal and State Taxes |1.8 Understanding Tax Brackets and Tax Rates |1.9 Understanding Tax Filing Requirements
 STANDARD_1_ADDITIONAL_COUNT: 0
 STANDARD_1_FEATURES: Michigan Career Pathways|Michigan State Tax Calculator|FAFSA Integration|Income Analysis Tools
 
@@ -53,7 +53,7 @@ STANDARD_1_FEATURES: Michigan Career Pathways|Michigan State Tax Calculator|FAFS
 STANDARD_2_NUMBER: 2
 STANDARD_2_TITLE: Buying Goods and Services
 STANDARD_2_DESCRIPTION: Consumer decisions, smart purchasing, and consumer protection
-STANDARD_2_CHAPTERS: 2.1 Financial Goal Setting|2.2 Managing Your Income Effectively|2.3 Shopping Online: Convenience at a Cost|2.4 Protecting Yourself from Consumer Fraud|2.5 Identity Theft Prevention and Recovery
+STANDARD_2_CHAPTERS: 2.1 Financial Goal Setting |2.2 Managing Your Income Effectively |2.3 Online Shopping -- Convenience at a Cost |2.4 Protecting Yourself from Consumer Fraud |2.5 Identity Theft Prevention and Recovery
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: Michigan Consumer Protection|Smart Shopping Tools|Fraud Prevention Resources|Budget Planning Tools
 
@@ -61,7 +61,7 @@ STANDARD_2_FEATURES: Michigan Consumer Protection|Smart Shopping Tools|Fraud Pre
 STANDARD_3_NUMBER: 3
 STANDARD_3_TITLE: Budgeting and Saving
 STANDARD_3_DESCRIPTION: Banking services, budgeting strategies, and savings fundamentals
-STANDARD_3_CHAPTERS: 3.1 Understanding Different Types of Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools|3.4 Getting Started Saving and Investing|3.5 Understanding the Power of Compound Interest and the Rule of 72|3.6 Evaluating Saving and Investment Strategies|3.7 Time is Money -- Developing a Savings and Investment Strategy
+STANDARD_3_CHAPTERS: 3.1 Understanding Financial Service Providers |3.2 Choosing and Evaluating Financial Service Providers |3.3 Understanding and Using Banking Tools |3.4 Getting Started Saving and Investing |3.5 Understanding the Power of Compound Interest and the Rule of 72 |3.6 Evaluating Saving and Investment Strategies |3.7 Time is Money -- Developing a Savings and Investment Strategy
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: Michigan Banking Landscape|Budget Simulator|Savings Calculator|Compound Interest Tool
 
@@ -86,28 +86,28 @@ L_CHAPTER_MAPPINGS: L-1→1.1|L-2→1.2|L-3→1.3|L-41→1.4|L-45→1.5|L-46→1
 STANDARD_4_NUMBER: 4
 STANDARD_4_TITLE: Using Credit
 STANDARD_4_DESCRIPTION: Credit fundamentals, debt management, and major purchase financing
-STANDARD_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management|4.7 Strategies for Managing High Levels of Debt|4.8 Renting vs. Owning -- Making Informed Housing Decisions
+STANDARD_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management |4.7 Strategies for Managing High Levels of Debt |4.8 Renting vs. Owning -- Making Informed Housing Decisions
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Standard 5: Financial Investing
 STANDARD_5_NUMBER: 5
 STANDARD_5_TITLE: Financial Investing
 STANDARD_5_DESCRIPTION: Investment strategies, risk assessment, and retirement planning
-STANDARD_5_CHAPTERS: 5.1 Understanding Monetary Risks in Saving and Investing|5.2 Planning for Your Retirement|5.3 Longevity and Retirement Planning|5.4 Introduction to Investment Types|5.5 Job Application Process|5.6 Interview Skills and Workplace Readiness|5.7 Professional Development
+STANDARD_5_CHAPTERS: 5.1 Understanding Monetary Risks in Saving and Investing |5.2 Planning for Retirement |5.3 Longevity and Retirement Planning |5.4 Introduction to Investment Types |5.5 Resume Building and Personal Branding |5.6 Job Application Process |5.7 Interview Skills and Workplace Readiness
 STANDARD_5_ADDITIONAL_COUNT: 0
 
 ### Standard 6: Protecting and Insuring
 STANDARD_6_NUMBER: 6
 STANDARD_6_TITLE: Protecting and Insuring
 STANDARD_6_DESCRIPTION: Risk management, insurance products, and asset protection
-STANDARD_6_CHAPTERS: 6.1 Understanding and Managing Risk|6.2 Insurance as a Risk Management Tool|6.3 Managing Insurance Costs|6.4 Understanding the Costs and Responsibilities of Renting|6.5 Understanding Home Buying|6.6 Understanding Gambling Risks (combines L-36 and L-37)
+STANDARD_6_CHAPTERS: 6.1 Understanding and Managing Risk |6.2 Insurance as a Risk Management Tool |6.3 Managing Insurance Costs |6.4 Understanding the Costs and Responsibilities of Renting |6.5 Understanding Home Buying |6.6 Understanding the Risks of Gambling (combines L-36 and L-37)
 STANDARD_6_ADDITIONAL_COUNT: 0
 
 ### Standard 7: Paying Taxes
 STANDARD_7_NUMBER: 7
 STANDARD_7_TITLE: Paying Taxes
 STANDARD_7_DESCRIPTION: Tax planning, deductions, credits, and compliance
-STANDARD_7_CHAPTERS: 7.1 Understanding Tax Deductions and Credits|7.2 Tax Planning and Compliance|7.3 Charitable Giving (combines L-39 and L-40)
+STANDARD_7_CHAPTERS: 7.1 Understanding Tax Deductions and Credits |7.2 Tax Planning and Compliance |7.3 Charitable Giving and Financial Planning (combines L-39 and L-40)
 STANDARD_7_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

@@ -1,0 +1,73 @@
+{
+  "chapter_id": "LC-39",
+  "chapter_type": "combined",
+  "combines": ["L-39", "L-40"],
+  "title": "Charitable Giving and Financial Planning",
+  "description": "Combined chapter merging L-39 (Charitable Giving and Financial Planning) and L-40 (Checking Out Charitable Groups) into a single comprehensive lesson covering philanthropy, charitable giving strategies, evaluating charitable organizations, and integrating giving into financial plans.",
+  "used_by_states": 30,
+  "state_list": [
+    "Alabama", "Colorado", "Connecticut", "Delaware", "Florida",
+    "Iowa", "Kansas", "Kentucky", "Louisiana",
+    "Maine", "Maryland", "Michigan", "Minnesota", "Mississippi",
+    "Missouri", "Nebraska", "New Hampshire", "New Jersey", "Oklahoma",
+    "Oregon", "Pennsylvania", "South Carolina", "Tennessee", "Texas-PFL",
+    "Texas-PFLE", "Utah", "Virginia", "West Virginia", "Wisconsin"
+  ],
+  "separate_states": ["California", "Illinois", "Indiana", "North Carolina", "Rhode Island"],
+  "georgia_note": "Georgia uses L-39+L-40 COMBINED (LC-39)",
+  "learning_objectives": [
+    "Evaluate the role of charitable giving in personal financial planning",
+    "Analyze different forms of charitable contributions (monetary, time, in-kind)",
+    "Research and evaluate charitable organizations using reliable sources",
+    "Understand tax implications of charitable giving",
+    "Develop a personal giving plan aligned with financial goals",
+    "Identify warning signs of fraudulent charitable organizations"
+  ],
+  "frees_slot_for": "Additional extended chapter slot",
+  "day1_format": "structured_content",
+  "day2_format": "learning_lab",
+  "content_density": "combined",
+  "skill_builder": {
+    "title": "Charity Evaluator",
+    "type": "interactive_tool",
+    "description": "Students research and evaluate real charitable organizations using financial transparency metrics, mission alignment, and impact assessment"
+  },
+  "source_files": {
+    "slide_deck": {
+      "filename": "LC-39-combined-philanthropy-slides.html",
+      "source_repo": "pfl-academy-sync-90",
+      "source_branch": "claude/add-state-variables-slides-017dH4k6D8oq1Qu7NjHgPmmD",
+      "source_path": "/slide-decks/LC-39-combined-philanthropy-slides.html"
+    },
+    "student_day1": {
+      "filename": "day1.html",
+      "status": "needs_creation_from_L39_L40_merge"
+    },
+    "student_day2": {
+      "filename": "day2.html",
+      "status": "needs_creation_from_L39_L40_merge"
+    },
+    "teacher_guide_day1": {
+      "filename": "guide-day1.html",
+      "status": "needs_creation_from_L39_L40_merge"
+    },
+    "teacher_guide_day2": {
+      "filename": "guide-day2.html",
+      "status": "needs_creation_from_L39_L40_merge"
+    },
+    "student_workbook": {
+      "filename": "LC-39-student-workbook.pdf",
+      "status": "needs_generation"
+    },
+    "teacher_resource_guide": {
+      "filename": "LC-39-teacher-guide.pdf",
+      "status": "needs_generation"
+    },
+    "resources_doc": {
+      "filename": "CHAPTER_RESOURCES_L46-LC39.md",
+      "source_repo": "pfl-academy-sync-90",
+      "source_branch": "claude/add-state-variables-slides-017dH4k6D8oq1Qu7NjHgPmmD",
+      "source_path": "/slide-decks/CHAPTER_RESOURCES_L46-LC39.md"
+    }
+  }
+}

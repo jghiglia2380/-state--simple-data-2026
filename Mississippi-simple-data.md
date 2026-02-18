@@ -50,7 +50,7 @@ UNIT_1_FEATURES: SMART Goals Framework|Decision-Making Tools|Goal Tracking|Missi
 UNIT_2_NUMBER: 2
 UNIT_2_TITLE: Earning and Reporting Income
 UNIT_2_DESCRIPTION: Career development, income sources, and comprehensive tax literacy
-UNIT_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Understanding Federal and State Taxes|2.5 Understanding Tax Filing Requirements|2.6 Career Planning & Development|2.7 Resume Building and Personal Branding|2.8 Job Application Process|2.9 Interview Skills and Workplace Readiness|2.10 Professional Development
+UNIT_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Career Exploration and Goal Setting|2.5 Resume Building and Personal Branding|2.6 Job Application Process|2.7 Interview Skills and Workplace Readiness|2.8 Entrepreneurship and Side Hustles
 UNIT_2_ADDITIONAL_COUNT: 0
 UNIT_2_FEATURES: Mississippi Career Pathways|Mississippi Works! Integration|No State Income Tax Advantage|Workforce Readiness Tools
 
@@ -58,7 +58,7 @@ UNIT_2_FEATURES: Mississippi Career Pathways|Mississippi Works! Integration|No S
 UNIT_3_NUMBER: 3
 UNIT_3_TITLE: Banking and Financial Institutions
 UNIT_3_DESCRIPTION: Banking tools, financial services, and account management
-UNIT_3_CHAPTERS: 3.1 Understanding Different Types of Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools
+UNIT_3_CHAPTERS: 3.1 Understanding Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools
 UNIT_3_ADDITIONAL_COUNT: 0
 UNIT_3_FEATURES: Mississippi Banking Landscape|Account Management Tools|Banking Service Comparison|Financial Institution Selection
 
@@ -80,27 +80,27 @@ Credit fundamentals, debt management, student loans, and major purchase financin
 Risk management, insurance products, asset protection, and housing decisions
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-4→1.1|L-1→2.1|L-2→2.2|L-3→2.3|L-6→2.4|L-8→2.5|L-41→2.6|L-42→2.7|L-43→2.8|L-44→2.9|L-45→2.10|L-11→3.1|L-12→3.2|L-13→3.3|L-5→4.1|L-7→4.2|L-9→4.3|L-10→4.4|L-27→4.5|L-39+L-40→4.6|L-28→5.1|L-29→5.2|L-36+L-37→5.3|L-27→5.4|L-46→5.5|L-30→5.6|L-14→6.1|L-15→6.2|L-16→6.3|L-17→6.4|L-18→6.5|L-19→6.6|L-20→6.7|L-47→6.8|L-21→7.1|L-22→7.2|L-23→7.3|L-24→7.4|L-25→7.5|L-26→7.6|L-38→7.7|L-32→7.8|L-31→7.9|L-33→8.1|L-34→8.2|L-35→8.3|L-31→8.4|L-32→8.5|L-46→8.6
+L_CHAPTER_MAPPINGS: L-4→1.1|L-1→2.1|L-2→2.2|L-3→2.3|L-41→2.4|L-42→2.5|L-43→2.6|L-44→2.7|L-45→2.8|L-11→3.1|L-12→3.2|L-13→3.3|L-5→4.1|L-6→4.2|L-7→4.3|L-8→4.4|L-9→4.5|L-10→4.6|L-21→5.1|L-22→5.2|L-23→5.3|L-24→5.4|L-25→5.5|L-26→5.6|L-27→5.7|L-38→5.8|L-14→6.1|L-15→6.2|L-16→6.3|L-17→6.4|L-18→6.5|L-47→6.6|L-19→7.1|L-20→7.2|L-30→7.3|L-31→7.4|L-32→7.5|L-46→7.6|L-33→8.1|L-34→8.2|L-35→8.3|L-28→8.4|L-29→8.5|L-36+L-37→8.6|L-39+L-40→8.7
 
 ### Standard 4: Investing
 STANDARD_4_NUMBER: 4
 STANDARD_4_TITLE: Investing
 STANDARD_4_DESCRIPTION: Investment strategies, risk assessment, and retirement planning
-STANDARD_4_CHAPTERS: 4.1 Time is Money -- Developing a Savings and Investment Strategy|4.2 Understanding Monetary Risks in Saving and Investing|4.3 Planning for Your Retirement|4.4 Longevity and Retirement Planning
+STANDARD_4_CHAPTERS: 4.1 Managing Your Income Effectively|4.2 Understanding Federal and State Taxes|4.3 Understanding Tax Brackets and Tax Rates|4.4 Understanding Tax Filing Requirements|4.5 Understanding Tax Deductions and Credits|4.6 Tax Planning and Compliance
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Standard 5: Managing Credit & Debt
 STANDARD_5_NUMBER: 5
 STANDARD_5_TITLE: Managing Credit & Debt
 STANDARD_5_DESCRIPTION: Credit fundamentals, debt management, and major purchase financing
-STANDARD_5_CHAPTERS: 5.1 Understanding the Cost of Borrowing|5.2 Choosing the Right Source of Credit|5.3 Understanding Your Credit Score and Its Impact|5.4 Navigating Consumer Credit Legislation|5.5 Understanding Student Loans|5.6 Credit Card Use and Management|5.7 Strategies for Managing High Levels of Debt|5.8 Renting vs. Owning -- Making Informed Housing Decisions
+STANDARD_5_CHAPTERS: 5.1 Understanding the Cost of Borrowing|5.2 Choosing the Right Source of Credit|5.3 Understanding Your Credit Score and Its Impact|5.4 Consumer Credit Legislation|5.5 Understanding Student Loans|5.6 Credit Card Use and Management|5.7 Online Shopping -- Convenience at a Cost|5.8 Strategies for Managing High Levels of Debt
 STANDARD_5_ADDITIONAL_COUNT: 0
 
 ### Standard 6: Managing Risk & Insurance
 STANDARD_6_NUMBER: 6
 STANDARD_6_TITLE: Managing Risk & Insurance
 STANDARD_6_DESCRIPTION: Risk assessment, insurance products, and asset protection
-STANDARD_6_CHAPTERS: 6.1 Understanding and Managing Risk|6.2 Insurance as a Risk Management Tool|6.3 Managing Insurance Costs|6.4 Understanding the Costs and Responsibilities of Renting|6.5 Understanding Home Buying
+STANDARD_6_CHAPTERS: 6.1 Getting Started Saving and Investing|6.2 Understanding the Power of Compound Interest and the Rule of 72|6.3 Evaluating Saving and Investment Strategies|6.4 Time is Money -- Developing a Savings and Investment Strategy|6.5 Understanding Monetary Risks in Saving and Investing|6.6 Introduction to Investment Types
 STANDARD_6_ADDITIONAL_COUNT: 0
 
 ### Standard 7: Mississippi Taxation & Financial Planning
@@ -108,10 +108,8 @@ STANDARD_7_NUMBER: 7
 STANDARD_7_TITLE: Mississippi Taxation & Financial Planning
 STANDARD_7_DESCRIPTION: Federal and state tax planning (Mississippi no-income-tax advantage), tax compliance, and financial planning
 STANDARD_7_SUB_A_TITLE: Federal & State Taxation
-STANDARD_7_SUB_A_CHAPTERS: 7.1 Understanding Federal and State Taxes|7.2 Understanding Tax Brackets and Tax Rates|7.3 Understanding Tax Filing Requirements|7.4 Understanding Tax Deductions and Credits
 STANDARD_7_SUB_B_TITLE: Financial Planning & Risk Awareness
-STANDARD_7_SUB_B_CHAPTERS: 7.5 Tax Planning and Compliance|7.6 Understanding Gambling Risks (combines L-36 and L-37)
-STANDARD_7_CHAPTERS: 7.1 Understanding Federal and State Taxes|7.2 Understanding Tax Brackets and Tax Rates|7.3 Understanding Tax Filing Requirements|7.4 Understanding Tax Deductions and Credits|7.5 Tax Planning and Compliance|7.6 Understanding Gambling Risks (combines L-36 and L-37)
+STANDARD_7_CHAPTERS: 7.1 Planning for Retirement|7.2 Longevity and Retirement Planning|7.3 Renting vs. Owning -- Making Informed Housing Decisions|7.4 Understanding the Costs and Responsibilities of Renting|7.5 Understanding Home Buying|7.6 Automobile Finance -- Buying vs. Leasing
 STANDARD_7_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

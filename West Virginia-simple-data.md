@@ -54,7 +54,7 @@ STANDARD_2_NUMBER: 2
 STANDARD_2_CODE: SS.C.31
 STANDARD_2_TITLE: Income, Lifestyle, and Career Opportunities
 STANDARD_2_DESCRIPTION: Exploring career choices and understanding income fundamentals
-STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Income and Taxes
+STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Income and Taxes
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: Energy Sector Careers|Appalachian Career Pathways|Income Analysis|Career Planning
 
@@ -63,7 +63,7 @@ STANDARD_3_NUMBER: 3
 STANDARD_3_CODE: SS.C.32
 STANDARD_3_TITLE: Career Expectations and Lifelong Earning Potential
 STANDARD_3_DESCRIPTION: Career planning and foundational tax literacy
-STANDARD_3_CHAPTERS: 3.1 Career Planning & Development|3.2 Understanding Federal and State Taxes|3.3 Understanding Tax Brackets and Tax Rates
+STANDARD_3_CHAPTERS: 3.1 Career Exploration and Goal Setting |3.2 Understanding Federal and State Taxes |3.3 Understanding Tax Brackets and Tax Rates
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: Career Development Tools|WV Progressive Tax (3%-6.5%)|Tax Planning Resources|Professional Growth
 
@@ -98,7 +98,7 @@ STANDARD_4_NUMBER: 4
 STANDARD_4_CODE: SS.C.33
 STANDARD_4_TITLE: Workforce Preparedness Skills
 STANDARD_4_DESCRIPTION: Professional development and comprehensive tax planning
-STANDARD_4_CHAPTERS: 4.1 Resume Building and Personal Branding|4.2 Job Application Process|4.3 Interview Skills and Workplace Readiness|4.4 Professional Development|4.5 Understanding Tax Filing Requirements|4.6 Understanding Tax Deductions and Credits|4.7 Tax Planning and Compliance
+STANDARD_4_CHAPTERS: 4.1 Entrepreneurship and Side Hustles |4.2 Resume Building and Personal Branding |4.3 Job Application Process |4.4 Interview Skills and Workplace Readiness |4.5 Understanding Tax Filing Requirements |4.6 Understanding Tax Deductions and Credits |4.7 Tax Planning and Compliance
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Content Standard 5: Budgeting and Financial Planning
@@ -106,7 +106,7 @@ STANDARD_5_NUMBER: 5
 STANDARD_5_CODE: SS.C.34
 STANDARD_5_TITLE: Budgeting and Financial Planning
 STANDARD_5_DESCRIPTION: Money management, goal setting, and saving strategies
-STANDARD_5_CHAPTERS: 5.1 Financial Goal Setting|5.2 Managing Your Income Effectively|5.3 Shopping Online: Convenience at a Cost|5.4 Protecting Yourself from Consumer Fraud|5.5 Getting Started Saving and Investing|5.6 Understanding the Power of Compound Interest and the Rule of 72
+STANDARD_5_CHAPTERS: 5.1 Financial Goal Setting |5.2 Managing Your Income Effectively |5.3 Online Shopping -- Convenience at a Cost |5.4 Protecting Yourself from Consumer Fraud |5.5 Getting Started Saving and Investing |5.6 Understanding the Power of Compound Interest and the Rule of 72
 STANDARD_5_ADDITIONAL_COUNT: 0
 
 ### Content Standard 6: Types and Costs of Credit
@@ -114,7 +114,7 @@ STANDARD_6_NUMBER: 6
 STANDARD_6_CODE: SS.C.35
 STANDARD_6_TITLE: Types and Costs of Credit
 STANDARD_6_DESCRIPTION: Credit fundamentals, debt management, and consumer credit
-STANDARD_6_CHAPTERS: 6.1 Understanding the Cost of Borrowing|6.2 Choosing the Right Source of Credit|6.3 Understanding Your Credit Score and Its Impact|6.4 Navigating Consumer Credit Legislation|6.5 Understanding Student Loans|6.6 Credit Card Use and Management|6.7 Strategies for Managing High Levels of Debt
+STANDARD_6_CHAPTERS: 6.1 Understanding the Cost of Borrowing |6.2 Choosing the Right Source of Credit |6.3 Understanding Your Credit Score and Its Impact |6.4 Consumer Credit Legislation |6.5 Understanding Student Loans |6.6 Credit Card Use and Management |6.7 Strategies for Managing High Levels of Debt
 STANDARD_6_ADDITIONAL_COUNT: 0
 
 ### Content Standard 7: Consumer Debt Advantages and Disadvantages
@@ -122,7 +122,7 @@ STANDARD_7_NUMBER: 7
 STANDARD_7_CODE: SS.C.36
 STANDARD_7_TITLE: Consumer Debt Advantages and Disadvantages
 STANDARD_7_DESCRIPTION: Housing decisions and real estate economics
-STANDARD_7_CHAPTERS: 7.1 Renting vs. Owning -- Making Informed Housing Decisions|7.2 Understanding the Costs and Responsibilities of Renting|7.3 Understanding Home Buying
+STANDARD_7_CHAPTERS: 7.1 Renting vs. Owning -- Making Informed Housing Decisions |7.2 Understanding the Costs and Responsibilities of Renting |7.3 Understanding Home Buying
 STANDARD_7_ADDITIONAL_COUNT: 0
 
 ### Content Standard 8: Consumer Knowledge and Practices
@@ -130,7 +130,7 @@ STANDARD_8_NUMBER: 8
 STANDARD_8_CODE: SS.C.37
 STANDARD_8_TITLE: Consumer Knowledge and Practices
 STANDARD_8_DESCRIPTION: Banking services and consumer protection
-STANDARD_8_CHAPTERS: 8.1 Understanding Different Types of Financial Service Providers|8.2 Choosing and Evaluating Financial Service Providers|8.3 Understanding and Using Banking Tools|8.4 Identity Theft Prevention and Recovery
+STANDARD_8_CHAPTERS: 8.1 Understanding Financial Service Providers |8.2 Choosing and Evaluating Financial Service Providers |8.3 Understanding and Using Banking Tools |8.4 Identity Theft Prevention and Recovery
 STANDARD_8_ADDITIONAL_COUNT: 0
 
 ### Content Standard 9: Traditional and Online Banking
@@ -138,7 +138,7 @@ STANDARD_9_NUMBER: 9
 STANDARD_9_CODE: SS.C.38
 STANDARD_9_TITLE: Traditional and Online Banking
 STANDARD_9_DESCRIPTION: Saving, investing, and retirement planning
-STANDARD_9_CHAPTERS: 9.1 Evaluating Saving and Investment Strategies|9.2 Time is Money -- Developing a Savings and Investment Strategy|9.3 Understanding Monetary Risks in Saving and Investing|9.4 Planning for Your Retirement|9.5 Longevity and Retirement Planning|9.6 Introduction to Investment Types
+STANDARD_9_CHAPTERS: 9.1 Evaluating Saving and Investment Strategies |9.2 Time is Money -- Developing a Savings and Investment Strategy |9.3 Understanding Monetary Risks in Saving and Investing |9.4 Planning for Retirement |9.5 Longevity and Retirement Planning |9.6 Introduction to Investment Types
 STANDARD_9_ADDITIONAL_COUNT: 0
 
 ### Content Standard 10: Financial Habits for Economic Security
@@ -146,7 +146,7 @@ STANDARD_10_NUMBER: 10
 STANDARD_10_CODE: SS.C.39
 STANDARD_10_TITLE: Financial Habits for Economic Security
 STANDARD_10_DESCRIPTION: Risk management, insurance, and life planning
-STANDARD_10_CHAPTERS: 10.1 Understanding and Managing Risk|10.2 Insurance as a Risk Management Tool|10.3 Managing Insurance Costs|10.4 Understanding Gambling Risks (combines L-36 and L-37)|10.5 Charitable Giving (combines L-39 and L-40)|10.6 Entrepreneurship and Side Hustles
+STANDARD_10_CHAPTERS: 10.1 Understanding and Managing Risk |10.2 Insurance as a Risk Management Tool |10.3 Managing Insurance Costs |10.4 Understanding the Risks of Gambling (combines L-36 and L-37) |10.5 Charitable Giving and Financial Planning (combines L-39 and L-40) |10.6 Automobile Finance -- Buying vs. Leasing
 STANDARD_10_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

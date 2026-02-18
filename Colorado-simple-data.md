@@ -40,7 +40,7 @@ GLE_1_NUMBER: 1
 GLE_1_TITLE: Apply reliable information to make systematic personal financial decisions
 GLE_1_CODE: FL.HS.5.1
 GLE_1_DESCRIPTION: Students apply reliable information and systematic decision-making processes to set financial goals, evaluate career paths, and plan for post-secondary education financing
-GLE_1_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Financial Goal Setting|1.4 Managing Your Income Effectively
+GLE_1_CHAPTERS: 1.1 Jobs vs. Careers |1.2 Paying for Post-Secondary Education |1.3 Financial Goal Setting |1.4 Managing Your Income Effectively
 GLE_1_ADDITIONAL_COUNT: 0
 GLE_1_FEATURES: Colorado ICAP Integration|CollegeInvest Resources|FAFSA Completion Tools|Career Planning Framework
 
@@ -49,7 +49,7 @@ GLE_2_NUMBER: 2
 GLE_2_TITLE: Analyze sources of income and relationship between career preparation, continuing education, and lifetime earning potential
 GLE_2_CODE: FL.HS.5.2
 GLE_2_DESCRIPTION: Students analyze income sources, understand tax systems, and develop comprehensive career readiness skills including resume building, job search, interviewing, and entrepreneurship
-GLE_2_CHAPTERS: 2.1 Income and Taxes|2.2 Understanding Federal and State Taxes|2.3 Understanding Tax Brackets and Tax Rates|2.4 Understanding Tax Filing Requirements|2.5 Understanding Tax Deductions and Credits|2.6 Career Planning & Development|2.7 Resume Building and Personal Branding|2.8 Job Application Process|2.9 Interview Skills and Workplace Readiness|2.10 Entrepreneurship and Side Hustles
+GLE_2_CHAPTERS: 2.1 Income and Taxes |2.2 Understanding Federal and State Taxes |2.3 Understanding Tax Brackets and Tax Rates |2.4 Understanding Tax Filing Requirements |2.5 Understanding Tax Deductions and Credits |2.6 Career Exploration and Goal Setting |2.7 Resume Building and Personal Branding |2.8 Job Application Process |2.9 Interview Skills and Workplace Readiness |2.10 Entrepreneurship and Side Hustles
 GLE_2_ADDITIONAL_COUNT: 0
 GLE_2_FEATURES: Colorado Career Pathways|Colorado Works! Integration|Tax Calculator (4.40% flat rate)|ICAP Career Planning Tools
 
@@ -58,7 +58,7 @@ GLE_3_NUMBER: 3
 GLE_3_TITLE: Apply consumer skills to budgeting, spending, saving, and borrowing decisions
 GLE_3_CODE: FL.HS.5.3
 GLE_3_DESCRIPTION: Students develop practical money management skills including budgeting, banking, understanding credit and debt, making informed housing and auto purchase decisions, and protecting themselves as consumers
-GLE_3_CHAPTERS: 3.1 Tax Planning and Compliance|3.2 Understanding Different Types of Financial Service Providers|3.3 Choosing and Evaluating Financial Service Providers|3.4 Understanding and Using Banking Tools|3.5 Understanding the Cost of Borrowing|3.6 Choosing the Right Source of Credit|3.7 Understanding Your Credit Score and Its Impact|3.8 Navigating Consumer Credit Legislation|3.9 Understanding Student Loans|3.10 Credit Card Use and Management|3.11 Renting vs. Owning -- Making Informed Housing Decisions|3.12 Understanding the Costs and Responsibilities of Renting|3.13 Understanding Home Buying|3.14 Strategies for Managing High Levels of Debt|3.15 Understanding Auto Financing and Ownership Costs
+GLE_3_CHAPTERS: 3.1 Tax Planning and Compliance |3.2 Understanding Financial Service Providers |3.3 Choosing and Evaluating Financial Service Providers |3.4 Understanding and Using Banking Tools |3.5 Understanding the Cost of Borrowing |3.6 Choosing the Right Source of Credit |3.7 Understanding Your Credit Score and Its Impact |3.8 Consumer Credit Legislation |3.9 Understanding Student Loans |3.10 Credit Card Use and Management |3.11 Renting vs. Owning -- Making Informed Housing Decisions |3.12 Understanding the Costs and Responsibilities of Renting |3.13 Understanding Home Buying |3.14 Strategies for Managing High Levels of Debt |3.15 Automobile Finance -- Buying vs. Leasing
 GLE_3_ADDITIONAL_COUNT: 0
 GLE_3_FEATURES: Colorado Budget Planning Tools|Banking Comparison|Credit Score Simulator|Colorado Housing Market Data|TABOR Tax Context
 
@@ -68,7 +68,7 @@ GLE_4_NUMBER: 4
 GLE_4_TITLE: Explore a diversified investment strategy compatible with personal financial goals
 GLE_4_CODE: FL.HS.5.4
 GLE_4_DESCRIPTION: Students explore investment fundamentals, understand compound interest, evaluate saving and investment strategies, and develop retirement planning skills
-GLE_4_CHAPTERS: 4.1 Getting Started Saving and Investing|4.2 Understanding the Power of Compound Interest and the Rule of 72|4.3 Evaluating Saving and Investment Strategies|4.4 Time is Money -- Developing a Savings and Investment Strategy|4.5 Planning for Your Retirement|4.6 Longevity and Retirement Planning|4.7 Introduction to Investment Types
+GLE_4_CHAPTERS: 4.1 Getting Started Saving and Investing |4.2 Understanding the Power of Compound Interest and the Rule of 72 |4.3 Evaluating Saving and Investment Strategies |4.4 Time is Money -- Developing a Savings and Investment Strategy |4.5 Planning for Retirement |4.6 Longevity and Retirement Planning |4.7 Introduction to Investment Types
 GLE_4_ADDITIONAL_COUNT: 0
 
 ### GLE 5
@@ -76,7 +76,7 @@ GLE_5_NUMBER: 5
 GLE_5_TITLE: Choose risk management strategies for protection from financial risks
 GLE_5_CODE: FL.HS.5.5
 GLE_5_DESCRIPTION: Students understand financial risks, evaluate insurance products, protect themselves from fraud and identity theft, and make informed decisions about risk management including gambling awareness and charitable giving
-GLE_5_CHAPTERS: 5.1 Understanding Monetary Risks in Saving and Investing|5.2 Shopping Online: Convenience at a Cost|5.3 Protecting Yourself from Consumer Fraud|5.4 Identity Theft Prevention and Recovery|5.5 Understanding and Managing Risk|5.6 Insurance as a Risk Management Tool|5.7 Managing Insurance Costs|5.8 Understanding Gambling Risks (combines L-36 and L-37)|5.9 Charitable Giving (combines L-39 and L-40)
+GLE_5_CHAPTERS: 5.1 Understanding Monetary Risks in Saving and Investing |5.2 Online Shopping -- Convenience at a Cost |5.3 Protecting Yourself from Consumer Fraud |5.4 Identity Theft Prevention and Recovery |5.5 Understanding and Managing Risk |5.6 Insurance as a Risk Management Tool |5.7 Managing Insurance Costs |5.8 Understanding the Risks of Gambling (combines L-36 and L-37) |5.9 Charitable Giving and Financial Planning (combines L-39 and L-40)
 GLE_5_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Grade Level Expectations

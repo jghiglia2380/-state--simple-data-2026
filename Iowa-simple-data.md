@@ -39,7 +39,7 @@ CONTENT_AREA_5: Content Area 5: Risk Management and Investing (8 chapters) - Ins
 CONTENT_AREA_1_NUMBER: 1
 CONTENT_AREA_1_TITLE: Financial Responsibility and Decision Making
 CONTENT_AREA_1_DESCRIPTION: Goal setting, decision frameworks, consumer protection, and financial responsibility
-CONTENT_AREA_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Shopping Online: Convenience at a Cost|1.4 Protecting Yourself from Consumer Fraud|1.5 Identity Theft Prevention and Recovery|1.6 Understanding and Managing Risk|1.7 Understanding Gambling Risks (combines L-36 and L-37)|1.8 Charitable Giving (combines L-39 and L-40)|1.9 Entrepreneurship and Side Hustles
+CONTENT_AREA_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Online Shopping -- Convenience at a Cost |1.4 Protecting Yourself from Consumer Fraud |1.5 Identity Theft Prevention and Recovery |1.6 Understanding and Managing Risk |1.7 Understanding the Risks of Gambling (combines L-36 and L-37) |1.8 Charitable Giving and Financial Planning (combines L-39 and L-40) |1.9 Automobile Finance -- Buying vs. Leasing
 CONTENT_AREA_1_ADDITIONAL_COUNT: 0
 CONTENT_AREA_1_FEATURES: Financial Goal Setting Framework|Decision-Making Tools|Consumer Protection Simulator|Risk Assessment Calculator
 
@@ -47,7 +47,7 @@ CONTENT_AREA_1_FEATURES: Financial Goal Setting Framework|Decision-Making Tools|
 CONTENT_AREA_2_NUMBER: 2
 CONTENT_AREA_2_TITLE: Income and Careers
 CONTENT_AREA_2_DESCRIPTION: Career exploration, income sources, taxation, and workforce readiness
-CONTENT_AREA_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Understanding Federal and State Taxes|2.5 Understanding Tax Brackets and Tax Rates|2.6 Understanding Tax Filing Requirements|2.7 Career Planning & Development|2.8 Resume Building and Personal Branding|2.9 Job Application Process|2.10 Interview Skills and Workplace Readiness
+CONTENT_AREA_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Understanding Federal and State Taxes |2.5 Understanding Tax Brackets and Tax Rates |2.6 Understanding Tax Filing Requirements |2.7 Career Exploration and Goal Setting |2.8 Entrepreneurship and Side Hustles |2.9 Resume Building and Personal Branding |2.10 Job Application Process
 CONTENT_AREA_2_ADDITIONAL_COUNT: 0
 CONTENT_AREA_2_FEATURES: Iowa Career Path Planner|Iowa Tax Calculator|Resume Builder|Interview Simulator
 
@@ -55,7 +55,7 @@ CONTENT_AREA_2_FEATURES: Iowa Career Path Planner|Iowa Tax Calculator|Resume Bui
 CONTENT_AREA_3_NUMBER: 3
 CONTENT_AREA_3_TITLE: Planning and Money Management
 CONTENT_AREA_3_DESCRIPTION: Budgeting, banking, saving strategies, and cash flow management
-CONTENT_AREA_3_CHAPTERS: 3.1 Understanding Tax Deductions and Credits|3.2 Tax Planning and Compliance|3.3 Understanding Different Types of Financial Service Providers|3.4 Choosing and Evaluating Financial Service Providers|3.5 Understanding and Using Banking Tools|3.6 Getting Started Saving and Investing|3.7 Understanding the Power of Compound Interest and the Rule of 72|3.8 Evaluating Saving and Investment Strategies|3.9 Time is Money -- Developing a Savings and Investment Strategy
+CONTENT_AREA_3_CHAPTERS: 3.1 Understanding Tax Deductions and Credits |3.2 Tax Planning and Compliance |3.3 Understanding Financial Service Providers |3.4 Choosing and Evaluating Financial Service Providers |3.5 Understanding and Using Banking Tools |3.6 Getting Started Saving and Investing |3.7 Understanding the Power of Compound Interest and the Rule of 72 |3.8 Evaluating Saving and Investment Strategies |3.9 Time is Money -- Developing a Savings and Investment Strategy
 CONTENT_AREA_3_ADDITIONAL_COUNT: 0
 CONTENT_AREA_3_FEATURES: Iowa Budget Planning Tool|Banking Service Comparison|Savings Calculator|Investment Strategy Guide
 
@@ -74,14 +74,14 @@ L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-27→1.3|L-28→1.4|L-29→1.5|L-33→
 CONTENT_AREA_4_NUMBER: 4
 CONTENT_AREA_4_TITLE: Credit and Debt Management
 CONTENT_AREA_4_DESCRIPTION: Coverage of Content Area 4
-CONTENT_AREA_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management|4.7 Strategies for Managing High Levels of Debt|4.8 Renting vs. Owning -- Making Informed Housing Decisions|4.9 Understanding the Costs and Responsibilities of Renting
+CONTENT_AREA_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management |4.7 Strategies for Managing High Levels of Debt |4.8 Renting vs. Owning -- Making Informed Housing Decisions |4.9 Understanding the Costs and Responsibilities of Renting
 CONTENT_AREA_4_ADDITIONAL_COUNT: 0
 
 ### Content Area 5: Risk Management and Investing
 CONTENT_AREA_5_NUMBER: 5
 CONTENT_AREA_5_TITLE: Risk Management and Investing
 CONTENT_AREA_5_DESCRIPTION: Coverage of Content Area 5
-CONTENT_AREA_5_CHAPTERS: 5.1 Understanding Monetary Risks in Saving and Investing|5.2 Planning for Your Retirement|5.3 Longevity and Retirement Planning|5.4 Insurance as a Risk Management Tool|5.5 Managing Insurance Costs|5.6 Understanding Home Buying|5.7 Introduction to Investment Types|5.8 Professional Development
+CONTENT_AREA_5_CHAPTERS: 5.1 Understanding Monetary Risks in Saving and Investing |5.2 Planning for Retirement |5.3 Longevity and Retirement Planning |5.4 Insurance as a Risk Management Tool |5.5 Managing Insurance Costs |5.6 Understanding Home Buying |5.7 Introduction to Investment Types |5.8 Interview Skills and Workplace Readiness
 CONTENT_AREA_5_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

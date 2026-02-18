@@ -39,7 +39,7 @@ STANDARD_5: Standard V: Risk Management and Insurance (7 chapters) - Risk manage
 STANDARD_1_NUMBER: I
 STANDARD_1_TITLE: Spending and Saving
 STANDARD_1_DESCRIPTION: Budgeting, spending plans, banking services, savings strategies, consumer protection, and financial decision-making
-STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Shopping Online: Convenience at a Cost|1.4 Protecting Yourself from Consumer Fraud|1.5 Identity Theft Prevention and Recovery|1.6 Understanding Gambling Risks (combines L-36 and L-37)|1.7 Charitable Giving (combines L-39 and L-40)|1.8 Understanding Different Types of Financial Service Providers|1.9 Choosing and Evaluating Financial Service Providers|1.10 Understanding and Using Banking Tools|1.11 Getting Started Saving and Investing|1.12 Understanding the Power of Compound Interest and the Rule of 72|1.13 Evaluating Saving and Investment Strategies|1.14 Time is Money -- Developing a Savings and Investment Strategy
+STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Online Shopping -- Convenience at a Cost |1.4 Protecting Yourself from Consumer Fraud |1.5 Identity Theft Prevention and Recovery |1.6 Understanding the Risks of Gambling (combines L-36 and L-37) |1.7 Charitable Giving and Financial Planning (combines L-39 and L-40) |1.8 Understanding Financial Service Providers |1.9 Choosing and Evaluating Financial Service Providers |1.10 Understanding and Using Banking Tools |1.11 Getting Started Saving and Investing |1.12 Understanding the Power of Compound Interest and the Rule of 72 |1.13 Evaluating Saving and Investment Strategies |1.14 Time is Money -- Developing a Savings and Investment Strategy
 STANDARD_1_ADDITIONAL_COUNT: 0
 STANDARD_1_FEATURES: Kansas Budget Planning Tool|Banking Service Comparison|Savings Calculator|Consumer Protection Simulator|Spending Decision Framework
 
@@ -47,7 +47,7 @@ STANDARD_1_FEATURES: Kansas Budget Planning Tool|Banking Service Comparison|Savi
 STANDARD_2_NUMBER: II
 STANDARD_2_TITLE: Credit and Debt
 STANDARD_2_DESCRIPTION: Credit fundamentals, borrowing costs, credit scores, debt management, and major purchase decisions
-STANDARD_2_CHAPTERS: 2.1 Understanding the Cost of Borrowing|2.2 Choosing the Right Source of Credit|2.3 Understanding Your Credit Score and Its Impact|2.4 Navigating Consumer Credit Legislation|2.5 Understanding Student Loans|2.6 Credit Card Use and Management|2.7 Strategies for Managing High Levels of Debt|2.8 Renting vs. Owning -- Making Informed Housing Decisions
+STANDARD_2_CHAPTERS: 2.1 Understanding the Cost of Borrowing |2.2 Choosing the Right Source of Credit |2.3 Understanding Your Credit Score and Its Impact |2.4 Consumer Credit Legislation |2.5 Understanding Student Loans |2.6 Credit Card Use and Management |2.7 Strategies for Managing High Levels of Debt |2.8 Renting vs. Owning -- Making Informed Housing Decisions
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: Credit Score Simulator|Loan Comparison Calculator|Debt Management Tools|Housing Decision Framework
 
@@ -55,7 +55,7 @@ STANDARD_2_FEATURES: Credit Score Simulator|Loan Comparison Calculator|Debt Mana
 STANDARD_3_NUMBER: III
 STANDARD_3_TITLE: Employment and Income
 STANDARD_3_DESCRIPTION: Career planning, income sources, taxation, and comprehensive workforce readiness
-STANDARD_3_CHAPTERS: 3.1 Jobs vs. Careers|3.2 Paying for Post-Secondary Education|3.3 Income and Taxes|3.4 Understanding Federal and State Taxes|3.5 Understanding Tax Brackets and Tax Rates|3.6 Understanding Tax Filing Requirements|3.7 Career Planning & Development|3.8 Resume Building and Personal Branding|3.9 Entrepreneurship and Side Hustles
+STANDARD_3_CHAPTERS: 3.1 Jobs vs. Careers |3.2 Paying for Post-Secondary Education |3.3 Income and Taxes |3.4 Understanding Federal and State Taxes |3.5 Understanding Tax Brackets and Tax Rates |3.6 Understanding Tax Filing Requirements |3.7 Career Exploration and Goal Setting |3.8 Entrepreneurship and Side Hustles |3.9 Automobile Finance -- Buying vs. Leasing
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: Kansas Career Path Planner|Kansas Tax Calculator|Individual Plans of Study Integration|Entrepreneurship Resources
 
@@ -64,14 +64,14 @@ STANDARD_3_FEATURES: Kansas Career Path Planner|Kansas Tax Calculator|Individual
 STANDARD_4_NUMBER: IV
 STANDARD_4_TITLE: Investing
 STANDARD_4_DESCRIPTION: Investment fundamentals, retirement planning, risk assessment, and asset protection
-STANDARD_4_CHAPTERS: 4.1 Understanding Monetary Risks in Saving and Investing|4.2 Planning for Your Retirement|4.3 Longevity and Retirement Planning|4.4 Introduction to Investment Types|4.5 Understanding and Managing Risk|4.6 Insurance as a Risk Management Tool|4.7 Managing Insurance Costs
+STANDARD_4_CHAPTERS: 4.1 Understanding Monetary Risks in Saving and Investing |4.2 Planning for Retirement |4.3 Longevity and Retirement Planning |4.4 Introduction to Investment Types |4.5 Understanding and Managing Risk |4.6 Insurance as a Risk Management Tool |4.7 Managing Insurance Costs
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Standard 5
 STANDARD_5_NUMBER: V
 STANDARD_5_TITLE: Risk Management and Insurance
 STANDARD_5_DESCRIPTION: Advanced tax planning, housing decisions, and comprehensive workforce readiness
-STANDARD_5_CHAPTERS: 5.1 Understanding Tax Deductions and Credits|5.2 Tax Planning and Compliance|5.3 Understanding the Costs and Responsibilities of Renting|5.4 Understanding Home Buying|5.5 Job Application Process|5.6 Interview Skills and Workplace Readiness|5.7 Professional Development
+STANDARD_5_CHAPTERS: 5.1 Understanding Tax Deductions and Credits |5.2 Tax Planning and Compliance |5.3 Understanding the Costs and Responsibilities of Renting |5.4 Understanding Home Buying |5.5 Resume Building and Personal Branding |5.6 Job Application Process |5.7 Interview Skills and Workplace Readiness
 STANDARD_5_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Standards

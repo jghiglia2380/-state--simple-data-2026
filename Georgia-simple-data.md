@@ -39,7 +39,7 @@ DOMAIN_5: Domain 5: International Economics (2 standards: SSEIN1-2) - Internatio
 CONTENT_AREA_1_NUMBER: 1
 CONTENT_AREA_1_TITLE: Economic Decision-Making Foundations
 CONTENT_AREA_1_DESCRIPTION: Economic systems, scarcity, opportunity cost, incentives, and financial goal setting
-CONTENT_AREA_1_CHAPTERS: 1.1 Economic Systems and Resource Allocation|1.2 Scarcity, Opportunity Cost, and Incentives|1.3 Financial Goal Setting
+CONTENT_AREA_1_CHAPTERS: 1.1 Risk and Return in Investing |1.2 Investment Portfolio Diversification |1.3 Financial Goal Setting
 CONTENT_AREA_1_ADDITIONAL_COUNT: 0
 CONTENT_AREA_1_FEATURES: Georgia Economic Decision Framework|Opportunity Cost Calculator|Economic Systems Comparison|Financial Goal Planner
 CONTENT_AREA_1_NOTE: Consolidated from 4 to 3 chapters - L-47 (formerly mapped to 1.1) is now investing content; L-49 now combines scarcity, opportunity cost, and incentives
@@ -48,7 +48,7 @@ CONTENT_AREA_1_NOTE: Consolidated from 4 to 3 chapters - L-47 (formerly mapped t
 CONTENT_AREA_2_NUMBER: 2
 CONTENT_AREA_2_TITLE: Income, Employment & Career Economics
 CONTENT_AREA_2_DESCRIPTION: Supply and demand in labor markets, career choices, income sources, and education financing
-CONTENT_AREA_2_CHAPTERS: 2.1 Supply and Demand in Personal Finance|2.2 Jobs vs. Careers|2.3 Income and Taxes|2.4 Post-Secondary Education Financing
+CONTENT_AREA_2_CHAPTERS: 2.1 Financial Markets and Institutions |2.2 Jobs vs. Careers |2.3 Income and Taxes |2.4 Paying for Post-Secondary Education
 CONTENT_AREA_2_ADDITIONAL_COUNT: 0
 CONTENT_AREA_2_FEATURES: Georgia Labor Market Analyzer|Career Economics Tool|Income Analysis Calculator|Education ROI Planner
 CONTENT_AREA_2_NOTE: Chapter 2.1 updated to match L-50 Master list title (Supply and Demand applied to labor markets and career economics)
@@ -57,7 +57,7 @@ CONTENT_AREA_2_NOTE: Chapter 2.1 updated to match L-50 Master list title (Supply
 CONTENT_AREA_3_NUMBER: 3
 CONTENT_AREA_3_TITLE: Taxation and Fiscal Policy
 CONTENT_AREA_3_DESCRIPTION: Tax systems, fiscal policy, compliance, and economic impact
-CONTENT_AREA_3_CHAPTERS: 3.1 Understanding Federal and State Taxes|3.2 Tax Brackets and Tax Rates|3.3 Tax Filing and Compliance|3.4 Fiscal and Monetary Policy
+CONTENT_AREA_3_CHAPTERS: 3.1 Understanding Federal and State Taxes |3.2 Understanding Tax Brackets and Tax Rates |3.3 Understanding Tax Filing Requirements |3.4 Fiscal and Monetary Policy
 CONTENT_AREA_3_ADDITIONAL_COUNT: 0
 CONTENT_AREA_3_FEATURES: Georgia Tax Calculator|Fiscal Policy Analyzer|Tax Filing Simulator|Economic Impact Assessment
 CONTENT_AREA_3_NOTE: Chapter 3.4 now uses L-53 (Fiscal and Monetary Policy) from Master list
@@ -67,14 +67,14 @@ CONTENT_AREA_3_NOTE: Chapter 3.4 now uses L-53 (Fiscal and Monetary Policy) from
 CONTENT_AREA_4_NUMBER: 4
 CONTENT_AREA_4_TITLE: Content Area 4
 CONTENT_AREA_4_DESCRIPTION: Coverage of Content Area 4
-CONTENT_AREA_4_CHAPTERS: 4.1 Managing Your Income Effectively|4.2 Understanding Tax Deductions and Credits|4.3 Tax Planning and Compliance
+CONTENT_AREA_4_CHAPTERS: 4.1 Managing Your Income Effectively |4.2 Understanding Tax Deductions and Credits |4.3 Tax Planning and Compliance
 CONTENT_AREA_4_ADDITIONAL_COUNT: 0
 
 ### Content Area 5
 CONTENT_AREA_5_NUMBER: 5
 CONTENT_AREA_5_TITLE: Financial Institutions & Banking Economics
 CONTENT_AREA_5_DESCRIPTION: Banking industry, government's role in the economy, and market structures
-CONTENT_AREA_5_CHAPTERS: 5.1 Understanding Different Types of Financial Service Providers|5.2 Government and the Economy - Personal Impact|5.3 Market Structures and Consumer Choice
+CONTENT_AREA_5_CHAPTERS: 5.1 Understanding Financial Service Providers |5.2 Government and the Economy |5.3 Investment Technology and Tools
 CONTENT_AREA_5_ADDITIONAL_COUNT: 0
 CONTENT_AREA_5_NOTE: Chapters 5.2 and 5.3 updated with L-52 and L-51 economics titles from Master list
 
@@ -82,21 +82,21 @@ CONTENT_AREA_5_NOTE: Chapters 5.2 and 5.3 updated with L-52 and L-51 economics t
 CONTENT_AREA_6_NUMBER: 6
 CONTENT_AREA_6_TITLE: Content Area 6
 CONTENT_AREA_6_DESCRIPTION: Coverage of Content Area 6
-CONTENT_AREA_6_CHAPTERS: 6.1 Understanding the Cost of Borrowing|6.2 Understanding Your Credit Score and Its Impact|6.3 Chapter 6.3|6.4 Credit Card Use and Management
+CONTENT_AREA_6_CHAPTERS: 6.1 Understanding the Cost of Borrowing |6.2 Understanding Your Credit Score and Its Impact |6.3 L-22+L-24 |6.4 Credit Card Use and Management
 CONTENT_AREA_6_ADDITIONAL_COUNT: 0
 
 ### Content Area 7
 CONTENT_AREA_7_NUMBER: 7
 CONTENT_AREA_7_TITLE: Content Area 7
 CONTENT_AREA_7_DESCRIPTION: Coverage of Content Area 7
-CONTENT_AREA_7_CHAPTERS: 7.1 Choosing and Evaluating Financial Service Providers|7.2 Strategies for Managing High Levels of Debt|7.3 Understanding and Using Banking Tools
+CONTENT_AREA_7_CHAPTERS: 7.1 Choosing and Evaluating Financial Service Providers |7.2 Strategies for Managing High Levels of Debt |7.3 Understanding and Using Banking Tools
 CONTENT_AREA_7_ADDITIONAL_COUNT: 0
 
 ### Content Area 8
 CONTENT_AREA_8_NUMBER: 8
 CONTENT_AREA_8_TITLE: Investment Markets & Capital Economics
 CONTENT_AREA_8_DESCRIPTION: Investment fundamentals, compound interest, strategies, capital market analysis, and macroeconomic factors
-CONTENT_AREA_8_CHAPTERS: 8.1 Getting Started Saving and Investing|8.2 Understanding the Power of Compound Interest and the Rule of 72|8.3 Investment Strategies (combined chapters)|8.4 Inflation, Unemployment, and Personal Finance
+CONTENT_AREA_8_CHAPTERS: 8.1 Getting Started Saving and Investing |8.2 Understanding the Power of Compound Interest and the Rule of 72 |8.3 L-16+L-17+L-18 |8.4 Inflation, Unemployment, and Personal Finance
 CONTENT_AREA_8_ADDITIONAL_COUNT: 0
 CONTENT_AREA_8_NOTE: Chapter 8.4 updated with L-54 economics title from Master list
 
@@ -104,35 +104,35 @@ CONTENT_AREA_8_NOTE: Chapter 8.4 updated with L-54 economics title from Master l
 CONTENT_AREA_9_NUMBER: 9
 CONTENT_AREA_9_TITLE: Content Area 9
 CONTENT_AREA_9_DESCRIPTION: Coverage of Content Area 9
-CONTENT_AREA_9_CHAPTERS: 9.1 Planning for Your Retirement|9.2 Longevity and Retirement Planning
+CONTENT_AREA_9_CHAPTERS: 9.1 Planning for Retirement |9.2 Longevity and Retirement Planning
 CONTENT_AREA_9_ADDITIONAL_COUNT: 0
 
 ### Content Area 10
 CONTENT_AREA_10_NUMBER: 10
 CONTENT_AREA_10_TITLE: Content Area 10
 CONTENT_AREA_10_DESCRIPTION: Coverage of Content Area 10
-CONTENT_AREA_10_CHAPTERS: 10.1 Chapter 10.1|10.2 Understanding the Risks of Gambling|10.3 The Costs and Benefits of Gambling
+CONTENT_AREA_10_CHAPTERS: 10.1 L-33+L-34+L-35 |10.2 Understanding the Risks of Gambling |10.3 The Costs and Benefits of Gambling
 CONTENT_AREA_10_ADDITIONAL_COUNT: 0
 
 ### Content Area 11
 CONTENT_AREA_11_NUMBER: 11
 CONTENT_AREA_11_TITLE: Content Area 11
 CONTENT_AREA_11_DESCRIPTION: Coverage of Content Area 11
-CONTENT_AREA_11_CHAPTERS: 11.1 Chapter 11.1|11.2 Identity Theft Prevention and Recovery|11.3 Understanding Student Loans
+CONTENT_AREA_11_CHAPTERS: 11.1 L-27+L-28 |11.2 Identity Theft Prevention and Recovery |11.3 Understanding Student Loans
 CONTENT_AREA_11_ADDITIONAL_COUNT: 0
 
 ### Content Area 12
 CONTENT_AREA_12_NUMBER: 12
 CONTENT_AREA_12_TITLE: Content Area 12
 CONTENT_AREA_12_DESCRIPTION: Coverage of Content Area 12
-CONTENT_AREA_12_CHAPTERS: 12.1 Understanding and Managing Risk|12.2 Insurance as a Risk Management Tool|12.3 Managing Insurance Costs|12.4 Entrepreneurship and Side Hustles (added for North Carolina EPF requirements)
+CONTENT_AREA_12_CHAPTERS: 12.1 Renting vs. Owning -- Making Informed Housing Decisions |12.2 Understanding the Costs and Responsibilities of Renting |12.3 Understanding Home Buying |12.4 Automobile Finance -- Buying vs. Leasing
 CONTENT_AREA_12_ADDITIONAL_COUNT: 0
 
 ### Content Area 13
 CONTENT_AREA_13_NUMBER: 13
 CONTENT_AREA_13_TITLE: Entrepreneurship & Economic Development
 CONTENT_AREA_13_DESCRIPTION: Entrepreneurial economics, career development, community economics, and international trade
-CONTENT_AREA_13_CHAPTERS: 13.1 Resume Building and Personal Branding|13.2 Career Readiness and Development (combined chapters)|13.3 Charitable Giving and Community Impact (combined chapters)|13.4 International Trade and Economic Development
+CONTENT_AREA_13_CHAPTERS: 13.1 Entrepreneurship and Side Hustles |13.2 L-41+L-42+L-43+L-44 |13.3 Charitable Giving and Financial Planning (combines L-39 and L-40) |13.4 International Trade and Economic Development
 CONTENT_AREA_13_ADDITIONAL_COUNT: 0
 CONTENT_AREA_13_NOTE: Chapter 13.4 updated with L-55 economics title from Master list
 

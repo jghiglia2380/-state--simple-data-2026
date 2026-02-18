@@ -1,0 +1,67 @@
+{
+  "chapter_id": "LC-36",
+  "chapter_type": "combined",
+  "combines": ["L-36", "L-37"],
+  "title": "Understanding the Risks of Gambling",
+  "description": "Combined chapter merging L-36 (Understanding the Risks of Gambling) and L-37 (The Costs and Benefits of Gambling) into a single comprehensive lesson covering gambling risks, probability, costs, benefits, and responsible decision-making.",
+  "used_by_states": 30,
+  "state_list": [
+    "Alabama", "Colorado", "Connecticut", "Delaware", "Florida",
+    "Georgia", "Iowa", "Kansas", "Kentucky", "Louisiana",
+    "Maine", "Maryland", "Michigan", "Minnesota", "Mississippi",
+    "Missouri", "Nebraska", "New Hampshire", "New Jersey", "Oklahoma",
+    "Oregon", "Pennsylvania", "South Carolina", "Tennessee", "Texas-PFL",
+    "Texas-PFLE", "Utah", "Virginia", "West Virginia", "Wisconsin"
+  ],
+  "separate_states": ["California", "Illinois", "Indiana", "North Carolina", "Rhode Island"],
+  "georgia_note": "Georgia uses L-36 and L-37 SEPARATE (not LC-36)",
+  "learning_objectives": [
+    "Analyze the mathematical probability and expected outcomes of gambling activities",
+    "Evaluate the true costs of gambling including financial, emotional, and social impacts",
+    "Identify signs of problem gambling and resources for help",
+    "Compare gambling activities to legitimate investment strategies",
+    "Make informed decisions about gambling using cost-benefit analysis",
+    "Understand state and federal regulations governing gambling activities"
+  ],
+  "frees_slot_for": "L-46 (Automobile Finance — Buying vs. Leasing)",
+  "day1_format": "structured_content",
+  "day2_format": "learning_lab",
+  "content_density": "combined",
+  "skill_builder": {
+    "title": "Gambling Risk Calculator",
+    "type": "interactive_tool",
+    "description": "Students analyze expected value calculations across common gambling scenarios and compare outcomes to savings/investment alternatives"
+  },
+  "source_files": {
+    "slide_deck": {
+      "filename": "LC-36-combined-gambling-slides.html",
+      "source_repo": "pfl-academy-sync-90",
+      "source_branch": "claude/add-state-variables-slides-017dH4k6D8oq1Qu7NjHgPmmD",
+      "source_path": "/slide-decks/LC-36-combined-gambling-slides.html"
+    },
+    "student_day1": {
+      "filename": "day1.html",
+      "status": "needs_creation_from_L36_L37_merge"
+    },
+    "student_day2": {
+      "filename": "day2.html",
+      "status": "needs_creation_from_L36_L37_merge"
+    },
+    "teacher_guide_day1": {
+      "filename": "guide-day1.html",
+      "status": "needs_creation_from_L36_L37_merge"
+    },
+    "teacher_guide_day2": {
+      "filename": "guide-day2.html",
+      "status": "needs_creation_from_L36_L37_merge"
+    },
+    "student_workbook": {
+      "filename": "LC-36-student-workbook.pdf",
+      "status": "needs_generation"
+    },
+    "teacher_resource_guide": {
+      "filename": "LC-36-teacher-guide.pdf",
+      "status": "needs_generation"
+    }
+  }
+}

@@ -44,7 +44,7 @@ K_AND_S_10: K&S 10: Consumer Rights and Responsibilities (2 chapters) - Consumer
 K_AND_S_1_NUMBER: 1
 K_AND_S_1_TITLE: Economic Foundations
 K_AND_S_1_DESCRIPTION: The student understands fundamental economic concepts including supply and demand, market structures, economic indicators, and the role of markets in the economy
-K_AND_S_1_CHAPTERS: 1.1 Supply and Demand Fundamentals|1.2 Market Structures and Competition|1.3 Economic Indicators and Measurement|1.4 Business Cycles and Economic Growth|1.5 Economic Systems and Trade
+K_AND_S_1_CHAPTERS: 1.1 Risk and Return in Investing|1.2 Investment Portfolio Diversification|1.3 Financial Markets and Institutions|1.4 Investment Technology and Tools|1.5 Government and the Economy
 K_AND_S_1_ADDITIONAL_COUNT: 0
 K_AND_S_1_FEATURES: Texas Economic Data Integration|Supply/Demand Simulator|Market Structure Analyzer|Economic Indicator Dashboard
 
@@ -52,7 +52,7 @@ K_AND_S_1_FEATURES: Texas Economic Data Integration|Supply/Demand Simulator|Mark
 K_AND_S_2_NUMBER: 2
 K_AND_S_2_TITLE: Macroeconomic Concepts
 K_AND_S_2_DESCRIPTION: The student analyzes fiscal and monetary policy, government intervention in markets, and the impact of economic policies on individuals and society
-K_AND_S_2_CHAPTERS: 2.1 Understanding Tax Systems|2.2 Understanding Tax Brackets and Tax Rates|2.3 Fiscal Policy and Government Spending|2.4 Monetary Policy and the Federal Reserve
+K_AND_S_2_CHAPTERS: 2.1 Understanding Federal and State Taxes|2.2 Understanding Tax Brackets and Tax Rates|2.3 Fiscal and Monetary Policy|2.4 Inflation, Unemployment, and Personal Finance|2.5 International Trade and Economic Development
 K_AND_S_2_ADDITIONAL_COUNT: 0
 K_AND_S_2_FEATURES: Texas Tax Context (No State Income Tax)|Federal Reserve Policy Simulator|Fiscal Policy Impact Calculator|Government Budget Analyzer
 
@@ -60,7 +60,7 @@ K_AND_S_2_FEATURES: Texas Tax Context (No State Income Tax)|Federal Reserve Poli
 K_AND_S_3_NUMBER: 3
 K_AND_S_3_TITLE: Career Development and Income
 K_AND_S_3_DESCRIPTION: The student develops career planning strategies, evaluates education and training options, and understands factors affecting income including taxation
-K_AND_S_3_CHAPTERS: 3.1 Jobs vs. Careers|3.2 Income and Taxes|3.3 Career Planning and Development
+K_AND_S_3_CHAPTERS: 3.1 Jobs vs. Careers|3.2 Paying for Post-Secondary Education|3.3 Income and Taxes|3.4 Career Exploration and Goal Setting|3.5 Resume Building and Personal Branding|3.6 Interview Skills and Workplace Readiness|3.7 Entrepreneurship and Side Hustles
 K_AND_S_3_ADDITIONAL_COUNT: 0
 K_AND_S_3_FEATURES: Texas Career Pathways Explorer|Education Cost Calculator with TASFA|Income Tax Calculator (Federal Only)|Career Development Planner
 
@@ -69,35 +69,35 @@ K_AND_S_3_FEATURES: Texas Career Pathways Explorer|Education Cost Calculator wit
 K_AND_S_4_NUMBER: 4
 K_AND_S_4_TITLE: Taxes and Government Revenue
 K_AND_S_4_DESCRIPTION: Coverage of K&S Statement 4
-K_AND_S_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Understanding Tax Filing Requirements|4.3 Understanding Tax Deductions and Credits|4.4 Job Search Strategies|4.5 Workplace Skills
+K_AND_S_4_CHAPTERS: 4.1 Understanding Tax Filing Requirements|4.2 Understanding Student Loans
 K_AND_S_4_ADDITIONAL_COUNT: 0
 
 ### K&S Statement 5
 K_AND_S_5_NUMBER: 5
 K_AND_S_5_TITLE: Banking and Financial Services
 K_AND_S_5_DESCRIPTION: Coverage of K&S Statement 5
-K_AND_S_5_CHAPTERS: 5.1 Professional Development
+K_AND_S_5_CHAPTERS: 5.1 Financial Goal Setting|5.2 Managing Your Income Effectively|5.3 Understanding and Using Banking Tools|5.4 Credit Card Use and Management|5.5 Renting vs. Owning -- Making Informed Housing Decisions|5.6 Automobile Finance -- Buying vs. Leasing
 K_AND_S_5_ADDITIONAL_COUNT: 0
 
 ### K&S Statement 6
 K_AND_S_6_NUMBER: 6
 K_AND_S_6_TITLE: Money Management and Budgeting
 K_AND_S_6_DESCRIPTION: Coverage of K&S Statement 6
-K_AND_S_6_CHAPTERS: 6.1 Financial Goal Setting|6.2 Managing Your Income Effectively|6.3 Understanding and Using Banking Tools|6.4 Understanding and Managing Risk|6.5 Renting vs. Owning -- Making Informed Housing Decisions|6.6 Strategies for Managing High Levels of Debt
+K_AND_S_6_CHAPTERS: 6.1 Understanding the Cost of Borrowing|6.2 Choosing the Right Source of Credit|6.3 Understanding Your Credit Score and Its Impact|6.4 Consumer Credit Legislation|6.5 Strategies for Managing High Levels of Debt
 K_AND_S_6_ADDITIONAL_COUNT: 0
 
 ### K&S Statement 7
 K_AND_S_7_NUMBER: 7
 K_AND_S_7_TITLE: Credit and Debt Management
 K_AND_S_7_DESCRIPTION: Coverage of K&S Statement 7
-K_AND_S_7_CHAPTERS: 7.1 Choosing the Right Source of Credit|7.2 Understanding Your Credit Score and Its Impact|7.3 Credit Card Use and Management|7.4 Navigating Consumer Credit Legislation|7.5 Understanding Student Loans|7.6 Credit Card Use and Management|7.7 Shopping Online: Convenience at a Cost
+K_AND_S_7_CHAPTERS: 7.1 Getting Started Saving and Investing|7.2 Understanding the Power of Compound Interest and the Rule of 72|7.3 Evaluating Saving and Investment Strategies|7.4 Time is Money -- Developing a Savings and Investment Strategy|7.5 Understanding Monetary Risks in Saving and Investing|7.6 Planning for Retirement|7.7 Introduction to Investment Types
 K_AND_S_7_ADDITIONAL_COUNT: 0
 
 ### K&S Statement 8
 K_AND_S_8_NUMBER: 8
 K_AND_S_8_TITLE: Investment and Wealth Building
 K_AND_S_8_DESCRIPTION: Coverage of K&S Statement 8
-K_AND_S_8_CHAPTERS: 8.1 Saving and Investing|8.2 Understanding the Power of Compound Interest and the Rule of 72|8.3 Evaluating Saving and Investment Strategies|8.4 Time is Money -- Developing a Savings and Investment Strategy|8.5 Understanding Monetary Risks in Saving and Investing|8.6 Planning for Your Retirement|8.7 Understanding Different Types of Financial Service Providers
+K_AND_S_8_CHAPTERS: 8.1 Understanding and Managing Risk|8.2 Insurance as a Risk Management Tool|8.3 Managing Insurance Costs|8.4 Protecting Yourself from Consumer Fraud|8.5 Identity Theft Prevention and Recovery|8.6 Understanding Home Buying|8.7 Understanding the Risks of Gambling (combines L-36 and L-37)|8.8 Charitable Giving and Financial Planning (combines L-39 and L-40)
 K_AND_S_8_ADDITIONAL_COUNT: 0
 
 ### K&S Statement 9
@@ -123,10 +123,10 @@ GATED_FEATURES: Texas Tax Calculator (Federal Only)|Banking Comparison Tool|Budg
 STATE_RESOURCES: Texas Education Agency|https://tea.texas.gov/|§113.76 TEKS Standards|/standards/texas-pfle|PFLE Curriculum Guide|/curriculum/texas-pfle|Teacher Resources|/resources/texas|Professional Development|/training/texas
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-48→1.1|L-49→1.2|L-50→1.3|L-51→1.4|L-52→1.5|L-6→2.1|L-7→2.2|L-53→2.3|L-54→2.4|L-1→3.1|L-2→3.2|L-41→3.3|L-3→4.1|L-8→4.2|L-9→4.3|L-42→4.4|L-44→4.5|L-45→5.1|L-4→6.1|L-5→6.2|L-13→6.3|L-30→6.4|L-34→6.5|L-38→6.6|L-21→7.1|L-22→7.2|L-23→7.3|L-24→7.4|L-25→7.5|L-26→7.6|L-27→7.7|L-14→8.1|L-15→8.2|L-16→8.3|L-17→8.4|L-18→8.5|L-19→8.6|L-47→8.7|L-28→9.1|L-29→9.2|L-33→9.3|L-34→9.4|L-35→9.5|L-36→9.6|L-39→9.7|L-26→10.1|L-32→10.2
+L_CHAPTER_MAPPINGS: L-48→1.1|L-49→1.2|L-50→1.3|L-51→1.4|L-52→1.5|L-6→2.1|L-7→2.2|L-53→2.3|L-54→2.4|L-55→2.5|L-1→3.1|L-2→3.2|L-3→3.3|L-41→3.4|L-42→3.5|L-44→3.6|L-45→3.7|L-8→4.1|L-25→4.2|L-4→5.1|L-5→5.2|L-13→5.3|L-26→5.4|L-30→5.5|L-46→5.6|L-21→6.1|L-22→6.2|L-23→6.3|L-24→6.4|L-38→6.5|L-14→7.1|L-15→7.2|L-16→7.3|L-17→7.4|L-18→7.5|L-19→7.6|L-47→7.7|L-33→8.1|L-34→8.2|L-35→8.3|L-28→8.4|L-29→8.5|L-32→8.6|L-36+L-37→8.7|L-39+L-40→8.8
 
 ## Omitted L-Chapters
-OMITTED_CHAPTERS: L-10, L-11, L-12, L-16, L-17, L-18, L-19, L-20, L-31, L-35, L-37, L-40, L-43, L-46 (Not aligned to §113.76 combined PFLE course structure)
+OMITTED_CHAPTERS: L-9, L-10, L-11, L-12, L-20, L-27, L-31, L-43 (8 core chapters omitted to accommodate 10 economics/extended chapters per TEKS §113.76 scope)
 
 ## Implementation Summary for Dev Team
 NEW_CHAPTERS_REQUIRED: 5 new economics-focused chapters (Supply/Demand, Market Structures, Economic Indicators, Business Cycles, Monetary Policy)

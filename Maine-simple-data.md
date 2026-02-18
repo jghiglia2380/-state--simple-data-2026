@@ -38,7 +38,7 @@ CORE_AREA_4: Core Area 4: Risk Management and Consumer Protection (11 chapters) 
 CORE_AREA_1_NUMBER: 1
 CORE_AREA_1_TITLE: Personal Financial Management
 CORE_AREA_1_DESCRIPTION: Goal setting, career planning, income management, taxation, budgeting, and comprehensive personal financial management strategies
-CORE_AREA_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Jobs vs. Careers|1.4 Paying for Post-Secondary Education|1.5 Income and Taxes|1.6 Career Planning & Development|1.7 Resume Building and Personal Branding|1.8 Job Application Process|1.9 Interview Skills and Workplace Readiness|1.10 Understanding Federal and State Taxes|1.11 Understanding Tax Brackets and Tax Rates|1.12 Understanding Tax Filing Requirements|1.13 Understanding Tax Deductions and Credits|1.14 Tax Planning and Compliance|1.15 Professional Development
+CORE_AREA_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Jobs vs. Careers |1.4 Paying for Post-Secondary Education |1.5 Income and Taxes |1.6 Career Exploration and Goal Setting |1.7 Resume Building and Personal Branding |1.8 Job Application Process |1.9 Interview Skills and Workplace Readiness |1.10 Understanding Federal and State Taxes |1.11 Understanding Tax Brackets and Tax Rates |1.12 Understanding Tax Filing Requirements |1.13 Understanding Tax Deductions and Credits |1.14 Tax Planning and Compliance |1.15 Entrepreneurship and Side Hustles
 CORE_AREA_1_ADDITIONAL_COUNT: 0
 CORE_AREA_1_FEATURES: Maine Career Pathways|FAME Program Integration|Maine Tax Calculator (5.8%-7.15%)|Financial Goal Framework|Budget Planning Tools
 
@@ -46,7 +46,7 @@ CORE_AREA_1_FEATURES: Maine Career Pathways|FAME Program Integration|Maine Tax C
 CORE_AREA_2_NUMBER: 2
 CORE_AREA_2_TITLE: Credit and Debt Management
 CORE_AREA_2_DESCRIPTION: Credit fundamentals, credit scores, debt management strategies, student loans, and responsible borrowing
-CORE_AREA_2_CHAPTERS: 2.1 Understanding the Cost of Borrowing|2.2 Choosing the Right Source of Credit|2.3 Understanding Your Credit Score and Its Impact|2.4 Navigating Consumer Credit Legislation|2.5 Understanding Student Loans|2.6 Credit Card Use and Management|2.7 Strategies for Managing High Levels of Debt
+CORE_AREA_2_CHAPTERS: 2.1 Understanding the Cost of Borrowing |2.2 Choosing the Right Source of Credit |2.3 Understanding Your Credit Score and Its Impact |2.4 Consumer Credit Legislation |2.5 Understanding Student Loans |2.6 Credit Card Use and Management |2.7 Strategies for Managing High Levels of Debt
 CORE_AREA_2_ADDITIONAL_COUNT: 0
 CORE_AREA_2_FEATURES: Credit Score Simulator|Debt Management Calculator|FAME Student Loan Resources|Borrowing Cost Analyzer
 
@@ -54,7 +54,7 @@ CORE_AREA_2_FEATURES: Credit Score Simulator|Debt Management Calculator|FAME Stu
 CORE_AREA_3_NUMBER: 3
 CORE_AREA_3_TITLE: Planning, Saving, and Investing
 CORE_AREA_3_DESCRIPTION: Banking services, saving strategies, investment principles, retirement planning, and long-term wealth building
-CORE_AREA_3_CHAPTERS: 3.1 Understanding Different Types of Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools|3.4 Getting Started Saving and Investing|3.5 Understanding the Power of Compound Interest and the Rule of 72|3.6 Evaluating Saving and Investment Strategies|3.7 Time is Money -- Developing a Savings and Investment Strategy|3.8 Understanding Monetary Risks in Saving and Investing|3.9 Planning for Your Retirement|3.10 Longevity and Retirement Planning|3.11 Introduction to Investment Types|3.12 Entrepreneurship and Side Hustles
+CORE_AREA_3_CHAPTERS: 3.1 Understanding Financial Service Providers |3.2 Choosing and Evaluating Financial Service Providers |3.3 Understanding and Using Banking Tools |3.4 Getting Started Saving and Investing |3.5 Understanding the Power of Compound Interest and the Rule of 72 |3.6 Evaluating Saving and Investment Strategies |3.7 Time is Money -- Developing a Savings and Investment Strategy |3.8 Understanding Monetary Risks in Saving and Investing |3.9 Planning for Retirement |3.10 Longevity and Retirement Planning |3.11 Introduction to Investment Types |3.12 Automobile Finance -- Buying vs. Leasing
 CORE_AREA_3_ADDITIONAL_COUNT: 0
 CORE_AREA_3_FEATURES: Maine Banking Landscape|Investment Calculator|Retirement Planner|Compound Interest Simulator|NextGen 529 College Plan
 
@@ -63,7 +63,7 @@ CORE_AREA_3_FEATURES: Maine Banking Landscape|Investment Calculator|Retirement P
 CORE_AREA_4_NUMBER: 4
 CORE_AREA_4_TITLE: Risk Management and Consumer Protection
 CORE_AREA_4_DESCRIPTION: Risk assessment, insurance products, consumer protection, fraud prevention, housing decisions, and civic financial responsibility
-CORE_AREA_4_CHAPTERS: 4.1 Understanding and Managing Risk|4.2 Insurance as a Risk Management Tool|4.3 Managing Insurance Costs|4.4 Shopping Online: Convenience at a Cost|4.5 Protecting Yourself from Consumer Fraud|4.6 Identity Theft Prevention and Recovery|4.7 Renting vs. Owning -- Making Informed Housing Decisions|4.8 Understanding the Costs and Responsibilities of Renting|4.9 Understanding Home Buying|4.10 Understanding Gambling Risks (combines L-36 and L-37)|4.11 Charitable Giving (combines L-39 and L-40)
+CORE_AREA_4_CHAPTERS: 4.1 Understanding and Managing Risk |4.2 Insurance as a Risk Management Tool |4.3 Managing Insurance Costs |4.4 Online Shopping -- Convenience at a Cost |4.5 Protecting Yourself from Consumer Fraud |4.6 Identity Theft Prevention and Recovery |4.7 Renting vs. Owning -- Making Informed Housing Decisions |4.8 Understanding the Costs and Responsibilities of Renting |4.9 Understanding Home Buying |4.10 Understanding the Risks of Gambling (combines L-36 and L-37) |4.11 Charitable Giving and Financial Planning (combines L-39 and L-40)
 CORE_AREA_4_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Core Areas

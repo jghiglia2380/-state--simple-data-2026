@@ -33,7 +33,7 @@ HERO_DESCRIPTION: Complete standards-aligned curriculum meeting RIGL 16-22-13 re
 STANDARD_1_NUMBER: 1
 STANDARD_1_TITLE: Earning Income
 STANDARD_1_DESCRIPTION: Focuses on career exploration, factors influencing income, and understanding taxation
-STANDARD_1_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Income and Taxes|1.4 Career Planning & Development|1.5 Job Search Strategies|1.6 Workplace Skills|1.7 Professional Development|1.8 Resume Building and Personal Branding
+STANDARD_1_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Income and Taxes|1.4 Career Exploration and Goal Setting|1.5 Resume Building and Personal Branding|1.6 Job Application Process|1.7 Interview Skills and Workplace Readiness|1.8 Entrepreneurship and Side Hustles
 STANDARD_1_ADDITIONAL_COUNT: 0
 STANDARD_1_FEATURES: Career pathway development, income optimization strategies, tax literacy
 
@@ -41,7 +41,7 @@ STANDARD_1_FEATURES: Career pathway development, income optimization strategies,
 STANDARD_2_NUMBER: 2
 STANDARD_2_TITLE: Spending
 STANDARD_2_DESCRIPTION: Focuses on managing spending, using payment methods, and making informed consumer decisions
-STANDARD_2_CHAPTERS: 2.1 Understanding Different Types of Financial Service Providers|2.2 Choosing and Evaluating Financial Service Providers|2.3 Understanding and Using Banking Tools|2.4 Shopping Online: Convenience at a Cost|2.5 Protecting Yourself from Consumer Fraud|2.6 Identity Theft Prevention and Recovery|2.7 Understanding the Risks of Gambling
+STANDARD_2_CHAPTERS: 2.1 Financial Goal Setting|2.2 Managing Your Income Effectively|2.3 Understanding Financial Service Providers|2.4 Choosing and Evaluating Financial Service Providers|2.5 Understanding and Using Banking Tools|2.6 Online Shopping -- Convenience at a Cost|2.7 Protecting Yourself from Consumer Fraud|2.8 Identity Theft Prevention and Recovery
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: Smart spending habits, consumer protection, financial service navigation
 
@@ -49,7 +49,7 @@ STANDARD_2_FEATURES: Smart spending habits, consumer protection, financial servi
 STANDARD_3_NUMBER: 3
 STANDARD_3_TITLE: Saving
 STANDARD_3_DESCRIPTION: Focuses on developing a savings plan and understanding different savings options
-STANDARD_3_CHAPTERS: 3.1 Financial Goal Setting|3.2 Managing Your Income Effectively|3.3 Getting Started Saving and Investing|3.4 Understanding the Power of Compound Interest and the Rule of 72|3.5 Evaluating Saving and Investment Strategies|3.6 Time is Money -- Developing a Savings and Investment Strategy|3.7 Understanding Monetary Risks in Saving and Investing
+STANDARD_3_CHAPTERS: 3.1 Understanding Federal and State Taxes|3.2 Understanding Tax Brackets and Tax Rates|3.3 Understanding Tax Filing Requirements|3.4 Understanding Tax Deductions and Credits|3.5 Tax Planning and Compliance|3.6 Getting Started Saving and Investing|3.7 Understanding the Power of Compound Interest and the Rule of 72
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: Goal-based savings, compound interest mastery, risk-adjusted planning
 
@@ -122,6 +122,9 @@ Focus on consumer protection, identifying financial risks, and using insurance a
 - 6.5 → L-35: Understanding Home Buying
 - 6.6 → L-37: The Costs and Benefits of Gambling
 - 6.7 → L-39: Charitable Giving and Financial Planning
+
+
+L_CHAPTER_MAPPINGS: L-1→1.1|L-2→1.2|L-3→1.3|L-41→1.4|L-42→1.5|L-43→1.6|L-44→1.7|L-45→1.8|L-4→2.1|L-5→2.2|L-11→2.3|L-12→2.4|L-13→2.5|L-27→2.6|L-28→2.7|L-29→2.8|L-6→3.1|L-7→3.2|L-8→3.3|L-9→3.4|L-10→3.5|L-14→3.6|L-15→3.7|L-16→4.1|L-17→4.2|L-18→4.3|L-19→4.4|L-20→4.5|L-21→5.1|L-22→5.2|L-23→5.3|L-24→5.4|L-25→5.5|L-26→5.6|L-38→5.7|L-30→5.8|L-31→5.9|L-32→5.10|L-33→6.1|L-34→6.2|L-35→6.3|L-36→6.4|L-37→6.5|L-39→6.6|L-40→6.7
 
 ## Implementation Summary for Dev Team
 

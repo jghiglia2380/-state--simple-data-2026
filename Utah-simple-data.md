@@ -40,10 +40,10 @@ STRAND_1_NUMBER: 1
 STRAND_1_TITLE: Economic Concepts and Economic Thinking
 STRAND_1_DESCRIPTION: Understanding basic economic concepts and developing economic thinking critical to making personal financial choices
 STANDARD_1_SUB_A_TITLE: Career Development & Income
-STANDARD_1_SUB_A_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Income and Taxes|1.4 Career Planning & Development|1.5 Resume Building and Personal Branding|1.6 Job Application Process|1.7 Interview Skills and Workplace Readiness|1.8 Professional Development
+STANDARD_1_SUB_A_CHAPTERS: 1.1 Jobs vs. Careers |1.2 Paying for Post-Secondary Education |1.3 Income and Taxes |1.4 Career Exploration and Goal Setting |1.5 Entrepreneurship and Side Hustles |1.6 Resume Building and Personal Branding |1.7 Job Application Process |1.8 Interview Skills and Workplace Readiness
 STANDARD_1_SUB_B_TITLE: Comprehensive Taxation
-STANDARD_1_SUB_B_CHAPTERS: 1.9 Understanding Federal and State Taxes|1.10 Understanding Tax Brackets and Tax Rates|1.11 Understanding Tax Filing Requirements|1.12 Understanding Tax Deductions and Credits|1.13 Tax Planning and Compliance
-STANDARD_1_CHAPTERS: 1.1 Jobs vs. Careers|1.2 Paying for Post-Secondary Education|1.3 Income and Taxes|1.4 Career Planning & Development|1.5 Resume Building and Personal Branding|1.6 Job Application Process|1.7 Interview Skills and Workplace Readiness|1.8 Professional Development|1.9 Understanding Federal and State Taxes|1.10 Understanding Tax Brackets and Tax Rates|1.11 Understanding Tax Filing Requirements|1.12 Understanding Tax Deductions and Credits|1.13 Tax Planning and Compliance
+STANDARD_1_SUB_B_CHAPTERS: 1.9 Understanding Federal and State Taxes |1.10 Understanding Tax Brackets and Tax Rates |1.11 Understanding Tax Filing Requirements |1.12 Understanding Tax Deductions and Credits |1.13 Tax Planning and Compliance
+STANDARD_1_CHAPTERS: 1.1 Jobs vs. Careers |1.2 Paying for Post-Secondary Education |1.3 Income and Taxes |1.4 Career Exploration and Goal Setting |1.5 Entrepreneurship and Side Hustles |1.6 Resume Building and Personal Branding |1.7 Job Application Process |1.8 Interview Skills and Workplace Readiness |1.9 Understanding Federal and State Taxes |1.10 Understanding Tax Brackets and Tax Rates |1.11 Understanding Tax Filing Requirements |1.12 Understanding Tax Deductions and Credits |1.13 Tax Planning and Compliance
 STANDARD_1_ADDITIONAL_COUNT: 0
 STANDARD_1_FEATURES: Silicon Slopes Careers|my529 Plan|Regents' Scholarship|UT Flat Tax Rate
 
@@ -52,10 +52,10 @@ STANDARD_2_NUMBER: 2
 STANDARD_2_TITLE: Money Management, Banking & Consumer Protection
 STANDARD_2_DESCRIPTION: Budgeting, banking services, and comprehensive fraud prevention
 STANDARD_2_SUB_A_TITLE: Money Management & Goal Setting
-STANDARD_2_SUB_A_CHAPTERS: 2.1 Financial Goal Setting|2.2 Managing Your Income Effectively|2.3 Shopping Online: Convenience at a Cost|2.4 Protecting Yourself from Consumer Fraud
+STANDARD_2_SUB_A_CHAPTERS: 2.1 Financial Goal Setting |2.2 Managing Your Income Effectively |2.3 Online Shopping -- Convenience at a Cost |2.4 Protecting Yourself from Consumer Fraud
 STANDARD_2_SUB_B_TITLE: Banking & Financial Services
-STANDARD_2_SUB_B_CHAPTERS: 2.5 Understanding Different Types of Financial Service Providers|2.6 Choosing and Evaluating Financial Service Providers|2.7 Understanding and Using Banking Tools|2.8 Getting Started Saving and Investing|2.9 Understanding the Power of Compound Interest and the Rule of 72|2.10 Identity Theft Prevention and Recovery
-STANDARD_2_CHAPTERS: 2.1 Financial Goal Setting|2.2 Managing Your Income Effectively|2.3 Shopping Online: Convenience at a Cost|2.4 Protecting Yourself from Consumer Fraud|2.5 Understanding Different Types of Financial Service Providers|2.6 Choosing and Evaluating Financial Service Providers|2.7 Understanding and Using Banking Tools|2.8 Getting Started Saving and Investing|2.9 Understanding the Power of Compound Interest and the Rule of 72|2.10 Identity Theft Prevention and Recovery
+STANDARD_2_SUB_B_CHAPTERS: 2.5 Understanding Financial Service Providers |2.6 Choosing and Evaluating Financial Service Providers |2.7 Understanding and Using Banking Tools |2.8 Getting Started Saving and Investing |2.9 Understanding the Power of Compound Interest and the Rule of 72 |2.10 Identity Theft Prevention and Recovery
+STANDARD_2_CHAPTERS: 2.1 Financial Goal Setting |2.2 Managing Your Income Effectively |2.3 Online Shopping -- Convenience at a Cost |2.4 Protecting Yourself from Consumer Fraud |2.5 Understanding Financial Service Providers |2.6 Choosing and Evaluating Financial Service Providers |2.7 Understanding and Using Banking Tools |2.8 Getting Started Saving and Investing |2.9 Understanding the Power of Compound Interest and the Rule of 72 |2.10 Identity Theft Prevention and Recovery
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: Budget Planning Tools|UT Banking Landscape|Consumer Protection|Fraud Prevention
 
@@ -63,7 +63,7 @@ STANDARD_2_FEATURES: Budget Planning Tools|UT Banking Landscape|Consumer Protect
 STANDARD_3_NUMBER: 3
 STANDARD_3_TITLE: Credit, Debt, Saving & Investing
 STANDARD_3_DESCRIPTION: Credit fundamentals, debt management, savings, and comprehensive investment principles
-STANDARD_3_CHAPTERS: 3.1 Understanding the Cost of Borrowing|3.2 Choosing the Right Source of Credit|3.3 Understanding Your Credit Score and Its Impact|3.4 Navigating Consumer Credit Legislation|3.5 Understanding Student Loans|3.6 Credit Card Use and Management|3.7 Strategies for Managing High Levels of Debt|3.8 Evaluating Saving and Investment Strategies|3.9 Time is Money -- Developing a Savings and Investment Strategy|3.10 Understanding Monetary Risks in Saving and Investing|3.11 Planning for Your Retirement|3.12 Longevity and Retirement Planning|3.13 Introduction to Investment Types|3.14 Entrepreneurship and Side Hustles
+STANDARD_3_CHAPTERS: 3.1 Understanding the Cost of Borrowing |3.2 Choosing the Right Source of Credit |3.3 Understanding Your Credit Score and Its Impact |3.4 Consumer Credit Legislation |3.5 Understanding Student Loans |3.6 Credit Card Use and Management |3.7 Strategies for Managing High Levels of Debt |3.8 Evaluating Saving and Investment Strategies |3.9 Time is Money -- Developing a Savings and Investment Strategy |3.10 Understanding Monetary Risks in Saving and Investing |3.11 Planning for Retirement |3.12 Longevity and Retirement Planning |3.13 Introduction to Investment Types |3.14 Automobile Finance -- Buying vs. Leasing
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: Credit Score Simulator|Debt Management|Investment Tools|Retirement Planning
 
@@ -79,7 +79,7 @@ L_CHAPTER_MAPPINGS: L-1→1.1|L-2→1.2|L-3→1.3|L-41→1.4|L-45→1.5|L-42→1
 STANDARD_4_NUMBER: 4
 STANDARD_4_TITLE: Housing, Risk Management & Life Planning
 STANDARD_4_DESCRIPTION: Housing decisions, insurance, consumer protection, and comprehensive life planning
-STANDARD_4_CHAPTERS: 4.1 Renting vs. Owning -- Making Informed Housing Decisions|4.2 Understanding the Costs and Responsibilities of Renting|4.3 Understanding Home Buying|4.4 Understanding and Managing Risk|4.5 Insurance as a Risk Management Tool|4.6 Managing Insurance Costs|4.7 Understanding Gambling Risks (combines L-36 and L-37)|4.8 Charitable Giving (combines L-39 and L-40)
+STANDARD_4_CHAPTERS: 4.1 Renting vs. Owning -- Making Informed Housing Decisions |4.2 Understanding the Costs and Responsibilities of Renting |4.3 Understanding Home Buying |4.4 Understanding and Managing Risk |4.5 Insurance as a Risk Management Tool |4.6 Managing Insurance Costs |4.7 Understanding the Risks of Gambling (combines L-36 and L-37) |4.8 Charitable Giving and Financial Planning (combines L-39 and L-40)
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

@@ -39,7 +39,7 @@ DOMAIN_5: Domain 5: Investing (7 chapters) - Investment principles, retirement p
 DOMAIN_1_NUMBER: 1
 DOMAIN_1_TITLE: Financial Decision-Making
 DOMAIN_1_DESCRIPTION: Goal setting, financial planning, consumer decisions, and comprehensive financial protection strategies
-DOMAIN_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Shopping Online: Convenience at a Cost|1.4 Protecting Yourself from Consumer Fraud|1.5 Understanding and Managing Risk|1.6 Charitable Giving (combines L-39 and L-40)|1.7 Understanding Gambling Risks (combines L-36 and L-37)|1.8 Professional Development
+DOMAIN_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Online Shopping -- Convenience at a Cost |1.4 Protecting Yourself from Consumer Fraud |1.5 Understanding and Managing Risk |1.6 Charitable Giving and Financial Planning (combines L-39 and L-40) |1.7 Understanding the Risks of Gambling (combines L-36 and L-37) |1.8 Entrepreneurship and Side Hustles
 DOMAIN_1_ADDITIONAL_COUNT: 0
 DOMAIN_1_FEATURES: Oregon Goal Setting Framework|Consumer Protection Resources|Decision-Making Tools|Risk Assessment Dashboard
 
@@ -47,7 +47,7 @@ DOMAIN_1_FEATURES: Oregon Goal Setting Framework|Consumer Protection Resources|D
 DOMAIN_2_NUMBER: 2
 DOMAIN_2_TITLE: Earning, Income and Careers
 DOMAIN_2_DESCRIPTION: Career exploration, education financing, income sources, comprehensive taxation, and workforce readiness
-DOMAIN_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Understanding Federal and State Taxes|2.5 Understanding Tax Brackets and Tax Rates|2.6 Understanding Tax Filing Requirements|2.7 Career Planning & Development|2.8 Resume Building and Personal Branding|2.9 Job Application Process|2.10 Interview Skills and Workplace Readiness
+DOMAIN_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Understanding Federal and State Taxes |2.5 Understanding Tax Brackets and Tax Rates |2.6 Understanding Tax Filing Requirements |2.7 Career Exploration and Goal Setting |2.8 Resume Building and Personal Branding |2.9 Job Application Process |2.10 Interview Skills and Workplace Readiness
 DOMAIN_2_ADDITIONAL_COUNT: 0
 DOMAIN_2_FEATURES: Oregon Career Pathways|Oregon Saves Auto-IRA|Tax Calculator (9% flat state tax)|Education Financing Tools
 
@@ -55,7 +55,7 @@ DOMAIN_2_FEATURES: Oregon Career Pathways|Oregon Saves Auto-IRA|Tax Calculator (
 DOMAIN_3_NUMBER: 3
 DOMAIN_3_TITLE: Spending and Saving
 DOMAIN_3_DESCRIPTION: Budgeting, banking services, spending strategies, housing decisions, auto finance, and saving fundamentals
-DOMAIN_3_CHAPTERS: 3.1 Understanding Tax Deductions and Credits|3.2 Tax Planning and Compliance|3.3 Understanding Different Types of Financial Service Providers|3.4 Choosing and Evaluating Financial Service Providers|3.5 Understanding and Using Banking Tools|3.6 Getting Started Saving and Investing|3.7 Renting vs. Owning -- Making Informed Housing Decisions|3.8 Understanding the Costs and Responsibilities of Renting|3.9 Understanding Home Buying|3.10 Understanding Auto Financing and Ownership Costs|3.11 Entrepreneurship and Side Hustles|3.12 Understanding the Power of Compound Interest and the Rule of 72
+DOMAIN_3_CHAPTERS: 3.1 Understanding Tax Deductions and Credits|3.2 Tax Planning and Compliance|3.3 Understanding Financial Service Providers|3.4 Choosing and Evaluating Financial Service Providers|3.5 Understanding and Using Banking Tools|3.6 Getting Started Saving and Investing|3.7 Renting vs. Owning -- Making Informed Housing Decisions|3.8 Understanding the Costs and Responsibilities of Renting|3.9 Understanding Home Buying|3.10 Automobile Finance -- Buying vs. Leasing|3.11 Introduction to Investment Types|3.12 Understanding the Power of Compound Interest and the Rule of 72
 DOMAIN_3_ADDITIONAL_COUNT: 0
 DOMAIN_3_FEATURES: Oregon Budget Planner|Banking Comparison|Housing Decision Calculator|Auto Finance Tools|Oregon Saves Integration
 
@@ -64,14 +64,14 @@ DOMAIN_3_FEATURES: Oregon Budget Planner|Banking Comparison|Housing Decision Cal
 DOMAIN_4_NUMBER: 4
 DOMAIN_4_TITLE: Borrowing and Credit
 DOMAIN_4_DESCRIPTION: Credit fundamentals, debt management, student loans, and identity theft protection
-DOMAIN_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management|4.7 Strategies for Managing High Levels of Debt|4.8 Identity Theft Prevention and Recovery
+DOMAIN_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management |4.7 Strategies for Managing High Levels of Debt |4.8 Identity Theft Prevention and Recovery
 DOMAIN_4_ADDITIONAL_COUNT: 0
 
 ### Domain 5
 DOMAIN_5_NUMBER: 5
 DOMAIN_5_TITLE: Investing
 DOMAIN_5_DESCRIPTION: Investment principles, retirement planning, risk management, and insurance strategies
-DOMAIN_5_CHAPTERS: 5.1 Evaluating Saving and Investment Strategies|5.2 Time is Money -- Developing a Savings and Investment Strategy|5.3 Understanding Monetary Risks in Saving and Investing|5.4 Planning for Your Retirement|5.5 Longevity and Retirement Planning|5.6 Insurance as a Risk Management Tool|5.7 Managing Insurance Costs
+DOMAIN_5_CHAPTERS: 5.1 Evaluating Saving and Investment Strategies |5.2 Time is Money -- Developing a Savings and Investment Strategy |5.3 Understanding Monetary Risks in Saving and Investing |5.4 Planning for Retirement |5.5 Longevity and Retirement Planning |5.6 Insurance as a Risk Management Tool |5.7 Managing Insurance Costs
 DOMAIN_5_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Domains
@@ -83,7 +83,7 @@ GATED_FEATURES: Credit Score Simulator|Debt Management Calculator|Investment Por
 STATE_RESOURCES: Oregon Department of Education|https://www.oregon.gov/ode/|Senate Bill 3 Information|/compliance/oregon|Oregon Social Science Standards|/standards/oregon|Oregon Saves|https://www.oregonsaves.com/
 
 ## L-Chapter Mappings for Dev Team
-L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-27→1.3|L-28→1.4|L-33→1.5|L-39+L-40→1.6|L-36+L-37→1.7|L-45→1.8|L-1→2.1|L-2→2.2|L-3→2.3|L-6→2.4|L-7→2.5|L-8→2.6|L-41→2.7|L-42→2.8|L-43→2.9|L-44→2.10|L-9→3.1|L-10→3.2|L-11→3.3|L-12→3.4|L-13→3.5|L-14→3.6|L-30→3.7|L-31→3.8|L-32→3.9|L-46→3.10|L-46→3.11|L-15→3.12|L-21→4.1|L-22→4.2|L-23→4.3|L-24→4.4|L-25→4.5|L-26→4.6|L-38→4.7|L-29→4.8|L-16→5.1|L-17→5.2|L-18→5.3|L-19→5.4|L-20→5.5|L-34→5.6|L-35→5.7
+L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-27→1.3|L-28→1.4|L-33→1.5|L-39+L-40→1.6|L-36+L-37→1.7|L-45→1.8|L-1→2.1|L-2→2.2|L-3→2.3|L-6→2.4|L-7→2.5|L-8→2.6|L-41→2.7|L-42→2.8|L-43→2.9|L-44→2.10|L-9→3.1|L-10→3.2|L-11→3.3|L-12→3.4|L-13→3.5|L-14→3.6|L-30→3.7|L-31→3.8|L-32→3.9|L-46→3.10|L-47→3.11|L-15→3.12|L-21→4.1|L-22→4.2|L-23→4.3|L-24→4.4|L-25→4.5|L-26→4.6|L-38→4.7|L-29→4.8|L-16→5.1|L-17→5.2|L-18→5.3|L-19→5.4|L-20→5.5|L-34→5.6|L-35→5.7
 
 ## Omitted L-Chapters
 OMITTED_CHAPTERS: L-47 (Introduction to Investment Types) - content integrated into other investment chapters

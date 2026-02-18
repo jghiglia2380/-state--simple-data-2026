@@ -40,7 +40,7 @@ STANDARD_6: Standard 6: Risk Management (5 chapters) - Consumer protection, iden
 STANDARD_1_NUMBER: 1
 STANDARD_1_TITLE: Decision Making and Goal Setting
 STANDARD_1_DESCRIPTION: Applying decision-making processes, setting financial goals, and analyzing external influences
-STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Understanding and Managing Risk|1.4 Understanding the Risks of Gambling|1.5 The Costs and Benefits of Gambling
+STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Insurance as a Risk Management Tool |1.4 The Costs and Benefits of Gambling |1.5 Strategies for Managing High Levels of Debt
 STANDARD_1_ADDITIONAL_COUNT: 0
 STANDARD_1_FEATURES: Financial Goal Setting Framework|Decision-Making Tools|Risk Assessment Calculator|Goal Planning Guide
 
@@ -48,7 +48,7 @@ STANDARD_1_FEATURES: Financial Goal Setting Framework|Decision-Making Tools|Risk
 STANDARD_2_NUMBER: 2
 STANDARD_2_TITLE: Income and Careers
 STANDARD_2_DESCRIPTION: Career pathways, sources of income, entrepreneurship, and taxation
-STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Understanding Federal and State Taxes|2.5 Understanding Tax Brackets and Tax Rates|2.6 Understanding Tax Filing Requirements|2.7 Understanding Tax Deductions and Credits|2.8 Tax Planning and Compliance|2.9 Career Exploration and Goal Setting|2.10 Resume Building and Personal Branding|2.11 Job Application Process|2.12 Interview Skills and Workplace Readiness
+STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Understanding Federal and State Taxes |2.5 Understanding Tax Brackets and Tax Rates |2.6 Protecting Yourself from Consumer Fraud |2.7 Identity Theft Prevention and Recovery |2.8 Renting vs. Owning -- Making Informed Housing Decisions |2.9 Job Application Process |2.10 Interview Skills and Workplace Readiness |2.11 Understanding Monetary Risks in Saving and Investing |2.12 Checking Out Charitable Groups
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: Career Path Planner Tool|Indiana Tax Calculator|Resume Builder|Interview Simulator
 
@@ -56,7 +56,7 @@ STANDARD_2_FEATURES: Career Path Planner Tool|Indiana Tax Calculator|Resume Buil
 STANDARD_3_NUMBER: 3
 STANDARD_3_TITLE: Managing Finances
 STANDARD_3_DESCRIPTION: Developing budgets and using banking and financial services
-STANDARD_3_CHAPTERS: 3.1 Understanding Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools|3.4 Saving and Investing|3.5 Understanding the Power of Compound Interest and the Rule of 72|3.6 Evaluating Saving and Investment Strategies|3.7 Time is Money – Developing a Savings and Investment Strategy
+STANDARD_3_CHAPTERS: 3.1 Understanding Tax Filing Requirements |3.2 Understanding Tax Deductions and Credits |3.3 Tax Planning and Compliance |3.4 Understanding Financial Service Providers |3.5 Choosing and Evaluating Financial Service Providers |3.6 Understanding and Using Banking Tools |3.7 Getting Started Saving and Investing
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: Budget Planning Tool|Banking Service Comparison|Savings Calculator|Investment Strategy Guide
 
@@ -65,21 +65,21 @@ STANDARD_3_FEATURES: Budget Planning Tool|Banking Service Comparison|Savings Cal
 STANDARD_4_NUMBER: 4
 STANDARD_4_TITLE: Standard 4
 STANDARD_4_DESCRIPTION: Coverage of Standard 4
-STANDARD_4_CHAPTERS: 4.1 Planning for Your Retirement|4.2 Longevity and Retirement Planning|4.3 Understanding the Cost of Borrowing|4.4 Choosing the Right Source of Credit|4.5 Understanding Your Credit Score and Its Impact|4.6 Navigating Consumer Credit Legislation|4.7 Charitable Giving and Financial Planning|4.8 Insurance as a Risk Management Tool
+STANDARD_4_CHAPTERS: 4.1 Planning for Retirement |4.2 Longevity and Retirement Planning |4.3 Understanding the Cost of Borrowing |4.4 Choosing the Right Source of Credit |4.5 Understanding Your Credit Score and Its Impact |4.6 Consumer Credit Legislation |4.7 Charitable Giving and Financial Planning |4.8 Understanding the Costs and Responsibilities of Renting
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Standard 5
 STANDARD_5_NUMBER: 5
 STANDARD_5_TITLE: Standard 5
 STANDARD_5_DESCRIPTION: Coverage of Standard 5
-STANDARD_5_CHAPTERS: 5.1 Understanding the Power of Compound Interest and the Rule of 72|5.2 Understanding Student Loans|5.3 Credit Card Use and Management|5.4 Evaluating Saving and Investment Strategies|5.5 Time is Money -- Developing a Savings and Investment Strategy|5.6 Career Planning & Development|5.7 Job Search Strategies|5.8 Resume Building and Personal Branding
+STANDARD_5_CHAPTERS: 5.1 Understanding the Power of Compound Interest and the Rule of 72 |5.2 Understanding Student Loans |5.3 Credit Card Use and Management |5.4 Evaluating Saving and Investment Strategies |5.5 Time is Money -- Developing a Savings and Investment Strategy |5.6 Career Exploration and Goal Setting |5.7 Resume Building and Personal Branding |5.8 Entrepreneurship and Side Hustles
 STANDARD_5_ADDITIONAL_COUNT: 0
 
 ### Standard 6
 STANDARD_6_NUMBER: 6
 STANDARD_6_TITLE: Standard 6
 STANDARD_6_DESCRIPTION: Coverage of Standard 6
-STANDARD_6_CHAPTERS: 6.1 Understanding Home Buying|6.2 Understanding the Risks of Gambling|6.3 Shopping Online: Convenience at a Cost|6.4 Managing Insurance Costs|6.5 Renting vs. Owning -- Making Informed Housing Decisions
+STANDARD_6_CHAPTERS: 6.1 Managing Insurance Costs |6.2 Understanding the Risks of Gambling |6.3 Online Shopping -- Convenience at a Cost |6.4 Understanding Home Buying |6.5 Understanding and Managing Risk
 STANDARD_6_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Standards

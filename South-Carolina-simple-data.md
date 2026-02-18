@@ -41,7 +41,7 @@ CATEGORY_7: Standard 7: Risk Management & Consumer Protection (5 chapters) - Ins
 CATEGORY_1_NUMBER: 1
 CATEGORY_1_TITLE: Financial Concepts & Goal Setting
 CATEGORY_1_DESCRIPTION: Economic principles, financial decision-making, and comprehensive goal setting fundamentals
-CATEGORY_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Shopping Online: Convenience at a Cost|1.4 Protecting Yourself from Consumer Fraud|1.5 Charitable Giving (combines L-39 and L-40)
+CATEGORY_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Online Shopping -- Convenience at a Cost |1.4 Protecting Yourself from Consumer Fraud |1.5 Charitable Giving and Financial Planning (combines L-39 and L-40)
 CATEGORY_1_ADDITIONAL_COUNT: 0
 CATEGORY_1_FEATURES: SC Goal Setting Framework|Budget Planning Tools|Consumer Protection Guide|Financial Decision Tools
 
@@ -50,10 +50,10 @@ CATEGORY_2_NUMBER: 2
 CATEGORY_2_TITLE: Income, Careers & Taxation
 CATEGORY_2_DESCRIPTION: Career development, income sources, and comprehensive tax literacy
 CATEGORY_2_SUB_A_TITLE: Career Development & Income
-CATEGORY_2_SUB_A_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Career Planning & Development|2.5 Resume Building and Personal Branding|2.6 Job Application Process|2.7 Interview Skills and Workplace Readiness|2.8 Professional Development
+CATEGORY_2_SUB_A_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Career Exploration and Goal Setting |2.5 Entrepreneurship and Side Hustles |2.6 Resume Building and Personal Branding |2.7 Job Application Process |2.8 Interview Skills and Workplace Readiness
 CATEGORY_2_SUB_B_TITLE: Comprehensive Taxation
-CATEGORY_2_SUB_B_CHAPTERS: 2.9 Understanding Federal and State Taxes|2.10 Understanding Tax Brackets and Tax Rates|2.11 Understanding Tax Filing Requirements|2.12 Understanding Tax Deductions and Credits|2.13 Tax Planning and Compliance
-CATEGORY_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Career Planning & Development|2.5 Resume Building and Personal Branding|2.6 Job Application Process|2.7 Interview Skills and Workplace Readiness|2.8 Professional Development|2.9 Understanding Federal and State Taxes|2.10 Understanding Tax Brackets and Tax Rates|2.11 Understanding Tax Filing Requirements|2.12 Understanding Tax Deductions and Credits|2.13 Tax Planning and Compliance
+CATEGORY_2_SUB_B_CHAPTERS: 2.9 Understanding Federal and State Taxes |2.10 Understanding Tax Brackets and Tax Rates |2.11 Understanding Tax Filing Requirements |2.12 Understanding Tax Deductions and Credits |2.13 Tax Planning and Compliance
+CATEGORY_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Career Exploration and Goal Setting |2.5 Entrepreneurship and Side Hustles |2.6 Resume Building and Personal Branding |2.7 Job Application Process |2.8 Interview Skills and Workplace Readiness |2.9 Understanding Federal and State Taxes |2.10 Understanding Tax Brackets and Tax Rates |2.11 Understanding Tax Filing Requirements |2.12 Understanding Tax Deductions and Credits |2.13 Tax Planning and Compliance
 CATEGORY_2_ADDITIONAL_COUNT: 0
 CATEGORY_2_FEATURES: SC Career Pathways|Future Scholar 529|SC LIFE Scholarship|Tax Planning Tools
 
@@ -61,7 +61,7 @@ CATEGORY_2_FEATURES: SC Career Pathways|Future Scholar 529|SC LIFE Scholarship|T
 CATEGORY_3_NUMBER: 3
 CATEGORY_3_TITLE: Banking & Money Management
 CATEGORY_3_DESCRIPTION: Financial services, banking tools, and comprehensive money management strategies
-CATEGORY_3_CHAPTERS: 3.1 Understanding Different Types of Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools|3.4 Getting Started Saving and Investing|3.5 Understanding the Power of Compound Interest and the Rule of 72
+CATEGORY_3_CHAPTERS: 3.1 Understanding Financial Service Providers |3.2 Choosing and Evaluating Financial Service Providers |3.3 Understanding and Using Banking Tools |3.4 Getting Started Saving and Investing |3.5 Understanding the Power of Compound Interest and the Rule of 72
 CATEGORY_3_ADDITIONAL_COUNT: 0
 CATEGORY_3_FEATURES: SC Banking Landscape|Account Management Tools|Savings Calculator|Banking Comparison Guide
 
@@ -86,28 +86,28 @@ L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-27→1.3|L-28→1.4|L-39+L-40→1.5|L-
 CATEGORY_4_NUMBER: 4
 CATEGORY_4_TITLE: Credit & Debt Management
 CATEGORY_4_DESCRIPTION: Credit fundamentals, debt strategies, credit legislation, and entrepreneurship
-CATEGORY_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management|4.7 Strategies for Managing High Levels of Debt|4.8 Entrepreneurship and Side Hustles
+CATEGORY_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management |4.7 Strategies for Managing High Levels of Debt |4.8 Automobile Finance -- Buying vs. Leasing
 CATEGORY_4_ADDITIONAL_COUNT: 0
 
 ### Category5: Housing & Major Purchases
 CATEGORY_5_NUMBER: 5
 CATEGORY_5_TITLE: Housing & Major Purchases
 CATEGORY_5_DESCRIPTION: Housing decisions, renting, and comprehensive home buying strategies
-CATEGORY_5_CHAPTERS: 5.1 Renting vs. Owning -- Making Informed Housing Decisions|5.2 Understanding the Costs and Responsibilities of Renting|5.3 Understanding Home Buying
+CATEGORY_5_CHAPTERS: 5.1 Renting vs. Owning -- Making Informed Housing Decisions |5.2 Understanding the Costs and Responsibilities of Renting |5.3 Understanding Home Buying
 CATEGORY_5_ADDITIONAL_COUNT: 0
 
 ### Category6: Saving, Investing & Retirement
 CATEGORY_6_NUMBER: 6
 CATEGORY_6_TITLE: Saving, Investing & Retirement
 CATEGORY_6_DESCRIPTION: Investment principles, retirement planning, and long-term wealth building
-CATEGORY_6_CHAPTERS: 6.1 Evaluating Saving and Investment Strategies|6.2 Time is Money -- Developing a Savings and Investment Strategy|6.3 Understanding Monetary Risks in Saving and Investing|6.4 Planning for Your Retirement|6.5 Longevity and Retirement Planning|6.6 Introduction to Investment Types
+CATEGORY_6_CHAPTERS: 6.1 Evaluating Saving and Investment Strategies |6.2 Time is Money -- Developing a Savings and Investment Strategy |6.3 Understanding Monetary Risks in Saving and Investing |6.4 Planning for Retirement |6.5 Longevity and Retirement Planning |6.6 Introduction to Investment Types
 CATEGORY_6_ADDITIONAL_COUNT: 0
 
 ### Category7: Risk Management & Consumer Protection
 CATEGORY_7_NUMBER: 7
 CATEGORY_7_TITLE: Risk Management & Consumer Protection
 CATEGORY_7_DESCRIPTION: Insurance, risk assessment, identity theft prevention, and comprehensive consumer protection
-CATEGORY_7_CHAPTERS: 7.1 Understanding and Managing Risk|7.2 Insurance as a Risk Management Tool|7.3 Managing Insurance Costs|7.4 Identity Theft Prevention and Recovery|7.5 Understanding Gambling Risks (combines L-36 and L-37)
+CATEGORY_7_CHAPTERS: 7.1 Understanding and Managing Risk |7.2 Insurance as a Risk Management Tool |7.3 Managing Insurance Costs |7.4 Identity Theft Prevention and Recovery |7.5 Understanding the Risks of Gambling (combines L-36 and L-37)
 CATEGORY_7_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

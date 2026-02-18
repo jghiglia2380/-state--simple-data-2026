@@ -40,7 +40,7 @@ STANDARD_6: Standard 6: Manage Risks (5 chapters) - Risk assessment, insurance, 
 STANDARD_1_NUMBER: 1
 STANDARD_1_TITLE: Make Informed, Financially Responsible Decisions
 STANDARD_1_DESCRIPTION: Financial goals, consumer protection, and comprehensive decision-making
-STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Shopping Online: Convenience at a Cost|1.4 Protecting Yourself from Consumer Fraud|1.5 Identity Theft Prevention and Recovery|1.6 Charitable Giving (combines L-39 and L-40)
+STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Online Shopping -- Convenience at a Cost |1.4 Protecting Yourself from Consumer Fraud |1.5 Identity Theft Prevention and Recovery |1.6 Charitable Giving and Financial Planning (combines L-39 and L-40)
 STANDARD_1_ADDITIONAL_COUNT: 0
 STANDARD_1_FEATURES: MD Consumer Protection Act|Decision-Making Frameworks|Fraud Prevention|Consumer Rights
 
@@ -48,7 +48,7 @@ STANDARD_1_FEATURES: MD Consumer Protection Act|Decision-Making Frameworks|Fraud
 STANDARD_2_NUMBER: 2
 STANDARD_2_TITLE: Relate Careers and Income
 STANDARD_2_DESCRIPTION: Career planning, income sources, and comprehensive tax literacy
-STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Career Planning & Development|2.5 Resume Building and Personal Branding|2.6 Job Application Process|2.7 Interview Skills and Workplace Readiness|2.8 Professional Development|2.9 Understanding Federal and State Taxes|2.10 Understanding Tax Brackets and Tax Rates|2.11 Understanding Tax Filing Requirements|2.12 Understanding Tax Deductions and Credits|2.13 Tax Planning and Compliance
+STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Career Exploration and Goal Setting |2.5 Entrepreneurship and Side Hustles |2.6 Resume Building and Personal Branding |2.7 Job Application Process |2.8 Interview Skills and Workplace Readiness |2.9 Understanding Federal and State Taxes |2.10 Understanding Tax Brackets and Tax Rates |2.11 Understanding Tax Filing Requirements |2.12 Understanding Tax Deductions and Credits |2.13 Tax Planning and Compliance
 STANDARD_2_ADDITIONAL_COUNT: 0
 STANDARD_2_FEATURES: MD College Investment Plan|Federal Government Careers|Biotech Pathways|MD Progressive Tax
 
@@ -56,7 +56,7 @@ STANDARD_2_FEATURES: MD College Investment Plan|Federal Government Careers|Biote
 STANDARD_3_NUMBER: 3
 STANDARD_3_TITLE: Manage a Budget
 STANDARD_3_DESCRIPTION: Banking services, budgeting, and comprehensive money management
-STANDARD_3_CHAPTERS: 3.1 Understanding Different Types of Financial Service Providers|3.2 Choosing and Evaluating Financial Service Providers|3.3 Understanding and Using Banking Tools|3.4 Getting Started Saving and Investing|3.5 Understanding the Power of Compound Interest and the Rule of 72|3.6 Evaluating Saving and Investment Strategies
+STANDARD_3_CHAPTERS: 3.1 Understanding Financial Service Providers |3.2 Choosing and Evaluating Financial Service Providers |3.3 Understanding and Using Banking Tools |3.4 Getting Started Saving and Investing |3.5 Understanding the Power of Compound Interest and the Rule of 72 |3.6 Evaluating Saving and Investment Strategies
 STANDARD_3_ADDITIONAL_COUNT: 0
 STANDARD_3_FEATURES: MD Banking Landscape|Budget Planning Tools|Account Management|Savings Strategies
 
@@ -78,21 +78,21 @@ L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-27→1.3|L-28→1.4|L-29→1.5|L-39+L-
 STANDARD_4_NUMBER: 4
 STANDARD_4_TITLE: Manage Credit and Debt
 STANDARD_4_DESCRIPTION: Credit fundamentals, debt strategies, and comprehensive housing finance
-STANDARD_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management|4.7 Strategies for Managing High Levels of Debt|4.8 Renting vs. Owning -- Making Informed Housing Decisions|4.9 Understanding the Costs and Responsibilities of Renting|4.10 Understanding Home Buying
+STANDARD_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management |4.7 Strategies for Managing High Levels of Debt |4.8 Renting vs. Owning -- Making Informed Housing Decisions |4.9 Understanding the Costs and Responsibilities of Renting |4.10 Understanding Home Buying
 STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Standard 5: Create Wealth Through Saving and Investing
 STANDARD_5_NUMBER: 5
 STANDARD_5_TITLE: Create Wealth Through Saving and Investing
 STANDARD_5_DESCRIPTION: Savings strategies, investment principles, and comprehensive retirement planning
-STANDARD_5_CHAPTERS: 5.1 Time is Money -- Developing a Savings and Investment Strategy|5.2 Understanding Monetary Risks in Saving and Investing|5.3 Planning for Your Retirement|5.4 Longevity and Retirement Planning|5.5 Introduction to Investment Types
+STANDARD_5_CHAPTERS: 5.1 Time is Money -- Developing a Savings and Investment Strategy |5.2 Understanding Monetary Risks in Saving and Investing |5.3 Planning for Retirement |5.4 Longevity and Retirement Planning |5.5 Introduction to Investment Types
 STANDARD_5_ADDITIONAL_COUNT: 0
 
 ### Standard 6: Manage Risks
 STANDARD_6_NUMBER: 6
 STANDARD_6_TITLE: Manage Risks
 STANDARD_6_DESCRIPTION: Risk assessment, insurance, and comprehensive consumer protection
-STANDARD_6_CHAPTERS: 6.1 Understanding and Managing Risk|6.2 Insurance as a Risk Management Tool|6.3 Managing Insurance Costs|6.4 Understanding Gambling Risks (combines L-36 and L-37)|6.5 Entrepreneurship and Side Hustles
+STANDARD_6_CHAPTERS: 6.1 Understanding and Managing Risk |6.2 Insurance as a Risk Management Tool |6.3 Managing Insurance Costs |6.4 Understanding the Risks of Gambling (combines L-36 and L-37) |6.5 Automobile Finance -- Buying vs. Leasing
 STANDARD_6_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team

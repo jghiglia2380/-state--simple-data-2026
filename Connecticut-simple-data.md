@@ -42,7 +42,7 @@ CONTENT_STANDARD_8: Content Standard 8: Consumer Protection and Civic Financial 
 CONTENT_STANDARD_1_NUMBER: 1
 CONTENT_STANDARD_1_TITLE: Financial Decision-Making
 CONTENT_STANDARD_1_DESCRIPTION: Goal setting, decision-making frameworks, risk assessment, and financial planning fundamentals
-CONTENT_STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Understanding and Managing Risk|1.4 Entrepreneurship and Side Hustles
+CONTENT_STANDARD_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Understanding and Managing Risk |1.4 Automobile Finance -- Buying vs. Leasing
 CONTENT_STANDARD_1_ADDITIONAL_COUNT: 0
 CONTENT_STANDARD_1_FEATURES: Connecticut Decision Framework|Goal Setting Tools|Risk Assessment Dashboard|Financial Planning Calculator
 
@@ -50,7 +50,7 @@ CONTENT_STANDARD_1_FEATURES: Connecticut Decision Framework|Goal Setting Tools|R
 CONTENT_STANDARD_2_NUMBER: 2
 CONTENT_STANDARD_2_TITLE: Income and Careers
 CONTENT_STANDARD_2_DESCRIPTION: Career exploration, education financing, income sources, taxation basics, and comprehensive workforce readiness
-CONTENT_STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers|2.2 Paying for Post-Secondary Education|2.3 Income and Taxes|2.4 Career Planning & Development|2.5 Resume Building and Personal Branding|2.6 Job Application Process|2.7 Interview Skills and Workplace Readiness
+CONTENT_STANDARD_2_CHAPTERS: 2.1 Jobs vs. Careers |2.2 Paying for Post-Secondary Education |2.3 Income and Taxes |2.4 Career Exploration and Goal Setting |2.5 Resume Building and Personal Branding |2.6 Job Application Process |2.7 Interview Skills and Workplace Readiness
 CONTENT_STANDARD_2_ADDITIONAL_COUNT: 0
 CONTENT_STANDARD_2_FEATURES: Connecticut Career Pathways|Education ROI Calculator|Resume Builder|Interview Simulator
 
@@ -58,7 +58,7 @@ CONTENT_STANDARD_2_FEATURES: Connecticut Career Pathways|Education ROI Calculato
 CONTENT_STANDARD_3_NUMBER: 3
 CONTENT_STANDARD_3_TITLE: Planning and Money Management
 CONTENT_STANDARD_3_DESCRIPTION: Budgeting, taxation systems, income management, and comprehensive financial planning strategies
-CONTENT_STANDARD_3_CHAPTERS: 3.1 Understanding Federal and State Taxes|3.2 Understanding Tax Brackets and Tax Rates|3.3 Understanding Tax Filing Requirements|3.4 Understanding Tax Deductions and Credits|3.5 Tax Planning and Compliance|3.6 Professional Development
+CONTENT_STANDARD_3_CHAPTERS: 3.1 Understanding Federal and State Taxes |3.2 Understanding Tax Brackets and Tax Rates |3.3 Understanding Tax Filing Requirements |3.4 Understanding Tax Deductions and Credits |3.5 Tax Planning and Compliance |3.6 Entrepreneurship and Side Hustles
 CONTENT_STANDARD_3_ADDITIONAL_COUNT: 0
 CONTENT_STANDARD_3_FEATURES: Connecticut Tax Calculator|Budget Planner|Tax Filing Simulator|Financial Planning Dashboard
 
@@ -67,35 +67,35 @@ CONTENT_STANDARD_3_FEATURES: Connecticut Tax Calculator|Budget Planner|Tax Filin
 CONTENT_STANDARD_4_NUMBER: 4
 CONTENT_STANDARD_4_TITLE: Credit and Debt
 CONTENT_STANDARD_4_DESCRIPTION: Credit fundamentals, credit scores, debt management, student loans, and responsible borrowing strategies
-CONTENT_STANDARD_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management|4.7 Strategies for Managing High Levels of Debt
+CONTENT_STANDARD_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management |4.7 Strategies for Managing High Levels of Debt
 CONTENT_STANDARD_4_ADDITIONAL_COUNT: 0
 
 ### Content Standard 5
 CONTENT_STANDARD_5_NUMBER: 5
 CONTENT_STANDARD_5_TITLE: Risk Management and Insurance
 CONTENT_STANDARD_5_DESCRIPTION: Risk assessment, insurance products, coverage strategies, and gambling awareness
-CONTENT_STANDARD_5_CHAPTERS: 5.1 Insurance as a Risk Management Tool|5.2 Managing Insurance Costs|5.3 Understanding Gambling Risks (combines L-36 and L-37)|5.4 Charitable Giving (combines L-39 and L-40)
+CONTENT_STANDARD_5_CHAPTERS: 5.1 Insurance as a Risk Management Tool |5.2 Managing Insurance Costs |5.3 Understanding the Risks of Gambling (combines L-36 and L-37) |5.4 Charitable Giving and Financial Planning (combines L-39 and L-40)
 CONTENT_STANDARD_5_ADDITIONAL_COUNT: 0
 
 ### Content Standard 6
 CONTENT_STANDARD_6_NUMBER: 6
 CONTENT_STANDARD_6_TITLE: Saving and Investing
 CONTENT_STANDARD_6_DESCRIPTION: Saving strategies, investment principles, compound interest, retirement planning, and wealth building
-CONTENT_STANDARD_6_CHAPTERS: 6.1 Getting Started Saving and Investing|6.2 Understanding the Power of Compound Interest and the Rule of 72|6.3 Evaluating Saving and Investment Strategies|6.4 Time is Money -- Developing a Savings and Investment Strategy|6.5 Understanding Monetary Risks in Saving and Investing|6.6 Introduction to Investment Types
+CONTENT_STANDARD_6_CHAPTERS: 6.1 Getting Started Saving and Investing |6.2 Understanding the Power of Compound Interest and the Rule of 72 |6.3 Evaluating Saving and Investment Strategies |6.4 Time is Money -- Developing a Savings and Investment Strategy |6.5 Understanding Monetary Risks in Saving and Investing |6.6 Introduction to Investment Types
 CONTENT_STANDARD_6_ADDITIONAL_COUNT: 0
 
 ### Content Standard 7
 CONTENT_STANDARD_7_NUMBER: 7
 CONTENT_STANDARD_7_TITLE: Banking and Financial Services
 CONTENT_STANDARD_7_DESCRIPTION: Financial institutions, banking services, account management, and financial product evaluation
-CONTENT_STANDARD_7_CHAPTERS: 7.1 Understanding Different Types of Financial Service Providers|7.2 Choosing and Evaluating Financial Service Providers|7.3 Understanding and Using Banking Tools|7.4 Planning for Your Retirement
+CONTENT_STANDARD_7_CHAPTERS: 7.1 Understanding Financial Service Providers |7.2 Choosing and Evaluating Financial Service Providers |7.3 Understanding and Using Banking Tools |7.4 Planning for Retirement
 CONTENT_STANDARD_7_ADDITIONAL_COUNT: 0
 
 ### Content Standard 8
 CONTENT_STANDARD_8_NUMBER: 8
 CONTENT_STANDARD_8_TITLE: Consumer Protection and Civic Financial Responsibility
 CONTENT_STANDARD_8_DESCRIPTION: Consumer rights, fraud prevention, identity theft protection, housing decisions, and civic engagement
-CONTENT_STANDARD_8_CHAPTERS: 8.1 Shopping Online: Convenience at a Cost|8.2 Protecting Yourself from Consumer Fraud|8.3 Identity Theft Prevention and Recovery|8.4 Renting vs. Owning -- Making Informed Housing Decisions|8.5 Understanding the Costs and Responsibilities of Renting|8.6 Understanding Home Buying|8.7 Longevity and Retirement Planning
+CONTENT_STANDARD_8_CHAPTERS: 8.1 Online Shopping -- Convenience at a Cost |8.2 Protecting Yourself from Consumer Fraud |8.3 Identity Theft Prevention and Recovery |8.4 Renting vs. Owning -- Making Informed Housing Decisions |8.5 Understanding the Costs and Responsibilities of Renting |8.6 Understanding Home Buying |8.7 Longevity and Retirement Planning
 CONTENT_STANDARD_8_ADDITIONAL_COUNT: 0
 
 ## Gated Content - Remaining Content Standards

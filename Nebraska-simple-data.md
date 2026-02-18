@@ -42,7 +42,7 @@ TOPIC_8: Statutory Topic 8: Investment Strategies (4 chapters) - Investment prin
 TOPIC_1_NUMBER: 1
 TOPIC_1_TITLE: Budget and Financial Record Keeping
 TOPIC_1_DESCRIPTION: Financial goal setting, income management, banking fundamentals, career planning, and workforce readiness
-TOPIC_1_CHAPTERS: 1.1 Financial Goal Setting|1.2 Managing Your Income Effectively|1.3 Understanding Different Types of Financial Service Providers|1.4 Choosing and Evaluating Financial Service Providers|1.5 Understanding and Using Banking Tools|1.6 Jobs vs. Careers|1.7 Paying for Post-Secondary Education|1.8 Career Planning & Development|1.9 Resume Building and Personal Branding|1.10 Job Application Process|1.11 Interview Skills and Workplace Readiness|1.12 Professional Development|1.13 Entrepreneurship and Side Hustles
+TOPIC_1_CHAPTERS: 1.1 Financial Goal Setting |1.2 Managing Your Income Effectively |1.3 Understanding Financial Service Providers |1.4 Choosing and Evaluating Financial Service Providers |1.5 Understanding and Using Banking Tools |1.6 Jobs vs. Careers |1.7 Paying for Post-Secondary Education |1.8 Career Exploration and Goal Setting |1.9 Entrepreneurship and Side Hustles |1.10 Resume Building and Personal Branding |1.11 Job Application Process |1.12 Interview Skills and Workplace Readiness |1.13 Automobile Finance -- Buying vs. Leasing
 TOPIC_1_ADDITIONAL_COUNT: 0
 TOPIC_1_FEATURES: Nebraska Agricultural Planning|Rural vs. Urban Budgeting|Seasonal Income Management|Career Development|Budget Planning Tools
 
@@ -50,7 +50,7 @@ TOPIC_1_FEATURES: Nebraska Agricultural Planning|Rural vs. Urban Budgeting|Seaso
 TOPIC_2_NUMBER: 2
 TOPIC_2_TITLE: Banking
 TOPIC_2_DESCRIPTION: Financial services, banking tools, and comprehensive account management
-TOPIC_2_CHAPTERS: 2.1 Getting Started Saving and Investing|2.2 Understanding the Power of Compound Interest and the Rule of 72|2.3 Evaluating Saving and Investment Strategies
+TOPIC_2_CHAPTERS: 2.1 Getting Started Saving and Investing |2.2 Understanding the Power of Compound Interest and the Rule of 72 |2.3 Evaluating Saving and Investment Strategies
 TOPIC_2_ADDITIONAL_COUNT: 0
 TOPIC_2_FEATURES: Nebraska Community Banking|Agricultural Lending|Credit Union Prominence|Banking Service Comparison
 
@@ -58,7 +58,7 @@ TOPIC_2_FEATURES: Nebraska Community Banking|Agricultural Lending|Credit Union P
 TOPIC_3_NUMBER: 3
 TOPIC_3_TITLE: Taxes
 TOPIC_3_DESCRIPTION: Federal/state tax systems, filing requirements, and Nebraska state income tax structure and planning
-TOPIC_3_CHAPTERS: 3.1 Income and Taxes|3.2 Understanding Federal and State Taxes|3.3 Understanding Tax Brackets and Tax Rates|3.4 Understanding Tax Filing Requirements|3.5 Understanding Tax Deductions and Credits|3.6 Tax Planning and Compliance
+TOPIC_3_CHAPTERS: 3.1 Income and Taxes |3.2 Understanding Federal and State Taxes |3.3 Understanding Tax Brackets and Tax Rates |3.4 Understanding Tax Filing Requirements |3.5 Understanding Tax Deductions and Credits |3.6 Tax Planning and Compliance
 TOPIC_3_ADDITIONAL_COUNT: 0
 TOPIC_3_FEATURES: Nebraska State Income Tax Rates and Brackets (2.46%-6.64%)|Property Tax Planning|Agricultural Tax Considerations|Tax Strategy Tools
 
@@ -86,35 +86,35 @@ L_CHAPTER_MAPPINGS: L-4→1.1|L-5→1.2|L-11→1.3|L-12→1.4|L-13→1.5|L-1→1
 TOPIC_4_NUMBER: 4
 TOPIC_4_TITLE: Establishing, Building, Maintaining, and Monitoring Credit
 TOPIC_4_DESCRIPTION: Credit fundamentals, credit scores, borrowing decisions, and comprehensive credit management
-TOPIC_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing|4.2 Choosing the Right Source of Credit|4.3 Understanding Your Credit Score and Its Impact|4.4 Navigating Consumer Credit Legislation|4.5 Understanding Student Loans|4.6 Credit Card Use and Management
+TOPIC_4_CHAPTERS: 4.1 Understanding the Cost of Borrowing |4.2 Choosing the Right Source of Credit |4.3 Understanding Your Credit Score and Its Impact |4.4 Consumer Credit Legislation |4.5 Understanding Student Loans |4.6 Credit Card Use and Management
 TOPIC_4_ADDITIONAL_COUNT: 0
 
 ### Statutory Topic 5: Debt
 TOPIC_5_NUMBER: 5
 TOPIC_5_TITLE: Debt
 TOPIC_5_DESCRIPTION: Debt strategies, financial recovery, and major purchase financing
-TOPIC_5_CHAPTERS: 5.1 Strategies for Managing High Levels of Debt|5.2 Renting vs. Owning -- Making Informed Housing Decisions|5.3 Understanding the Costs and Responsibilities of Renting
+TOPIC_5_CHAPTERS: 5.1 Strategies for Managing High Levels of Debt |5.2 Renting vs. Owning -- Making Informed Housing Decisions |5.3 Understanding the Costs and Responsibilities of Renting
 TOPIC_5_ADDITIONAL_COUNT: 0
 
 ### Statutory Topic 6: Savings
 TOPIC_6_NUMBER: 6
 TOPIC_6_TITLE: Savings
 TOPIC_6_DESCRIPTION: Savings strategies, compound interest applications, and long-term financial goals
-TOPIC_6_CHAPTERS: 6.1 Time is Money -- Developing a Savings and Investment Strategy|6.2 Understanding Monetary Risks in Saving and Investing|6.3 Understanding Home Buying
+TOPIC_6_CHAPTERS: 6.1 Time is Money -- Developing a Savings and Investment Strategy |6.2 Understanding Monetary Risks in Saving and Investing |6.3 Understanding Home Buying
 TOPIC_6_ADDITIONAL_COUNT: 0
 
 ### Statutory Topic 7: Risk Management and Insurance
 TOPIC_7_NUMBER: 7
 TOPIC_7_TITLE: Risk Management and Insurance
 TOPIC_7_DESCRIPTION: Risk assessment, insurance products, consumer protection, and financial security
-TOPIC_7_CHAPTERS: 7.1 Understanding and Managing Risk|7.2 Insurance as a Risk Management Tool|7.3 Managing Insurance Costs|7.4 Shopping Online: Convenience at a Cost|7.5 Protecting Yourself from Consumer Fraud|7.6 Identity Theft Prevention and Recovery|7.7 Understanding Gambling Risks (combines L-36 and L-37)
+TOPIC_7_CHAPTERS: 7.1 Understanding and Managing Risk |7.2 Insurance as a Risk Management Tool |7.3 Managing Insurance Costs |7.4 Online Shopping -- Convenience at a Cost |7.5 Protecting Yourself from Consumer Fraud |7.6 Identity Theft Prevention and Recovery |7.7 Understanding the Risks of Gambling (combines L-36 and L-37)
 TOPIC_7_ADDITIONAL_COUNT: 0
 
 ### Statutory Topic 8: Investment Strategies
 TOPIC_8_NUMBER: 8
 TOPIC_8_TITLE: Investment Strategies
 TOPIC_8_DESCRIPTION: Investment principles, retirement planning, and long-term wealth building
-TOPIC_8_CHAPTERS: 8.1 Planning for Your Retirement|8.2 Longevity and Retirement Planning|8.3 Introduction to Investment Types|8.4 Charitable Giving (combines L-39 and L-40)
+TOPIC_8_CHAPTERS: 8.1 Planning for Retirement |8.2 Longevity and Retirement Planning |8.3 Introduction to Investment Types |8.4 Charitable Giving and Financial Planning (combines L-39 and L-40)
 TOPIC_8_ADDITIONAL_COUNT: 0
 
 ## Implementation Summary for Dev Team
