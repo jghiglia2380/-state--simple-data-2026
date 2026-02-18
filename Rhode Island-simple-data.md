@@ -73,7 +73,7 @@ Focus on consumer protection, identifying financial risks, and using insurance a
 - 1.4 → L-41: Career Planning & Development
 - 1.5 → L-42: Job Search Strategies
 - 1.6 → L-43: Workplace Skills
-- 1.7 → L-44: Professional Development
+- 1.7 → L-44: Interview Skills and Workplace Readiness
 - 1.8 → L-45: Resume Building and Personal Branding
 
 ### Standard 2: Spending (7 chapters)
